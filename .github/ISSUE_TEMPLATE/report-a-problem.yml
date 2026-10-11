@@ -1,0 +1,23 @@
+name: Report a problem
+description: Something on the site looks wrong, is broken, or has incorrect information.
+labels: [bug]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Which page?
+      placeholder: "For example: https://babatundeawo.github.io/akinyele-spelling-challenge/results.html"
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong?
+      description: Tell us what you saw and what you expected to see.
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and browser (optional)
+      placeholder: "For example: iPhone, Safari"

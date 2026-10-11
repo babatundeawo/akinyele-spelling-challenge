@@ -1,0 +1,100 @@
+---
+title: Try It Yourself | Akinyele Spelling Challenge 2026
+description: Practise spelling with an interactive trainer and a head-to-head Spelling Bee Challenge, using a 330-word UK-English bank.
+page: practice
+---
+<section class="page-hero">
+  <div class="wrap">
+    <p class="breadcrumb"><a href="index.html">Home</a> / Practice</p>
+    <p class="eyebrow">Try it yourself</p>
+    <h1>Spell it yourself</h1>
+    <p class="lede">Read the clue, hear the word if your device can speak it, then type the spelling. Or take on a simulated contestant in the Spelling Bee Challenge below.</p>
+  </div>
+</section>
+
+<section class="section alt" id="trainer">
+  <div class="wrap">
+    <div class="section-head reveal"><p class="eyebrow">Quick practice</p><h2>Free practice mode</h2><p>Pick a category and work through as many words as you like. Every round is freshly shuffled, so you will not see the same word twice in a row.</p></div>
+    <noscript><p class="no-js-note">The practice tools need JavaScript. You can still read every word in the <a href="wordbank.html">Word Bank</a>.</p></noscript>
+    <div class="trainer reveal">
+      <div class="trainer-side">
+        <p class="eyebrow">Practice mode</p>
+        <h3>Think you can out-spell a Primary 5 finalist?</h3>
+        <p>Choose a category and give it a go. Every clue uses real words, meanings and example sentences in UK English.</p>
+        <div class="chips" role="group" aria-label="Word category" id="trainerCats">
+          <button type="button" class="chip" data-cat="A" aria-pressed="true">Category A</button>
+          <button type="button" class="chip" data-cat="B" aria-pressed="false">Category B</button>
+          <button type="button" class="chip" data-cat="C" aria-pressed="false">Category C</button>
+        </div>
+      </div>
+      <div class="trainer-main">
+        <div class="clue" id="trainerClue" aria-live="polite">
+          <span class="clue-cat" id="clueCat">Category A &middot; Everyday words</span>
+          <span class="clue-meaning" id="clueMeaning">Loading a word&hellip;</span>
+          <span class="clue-example" id="clueExample"></span>
+          <span class="clue-ipa" id="clueIpa"></span>
+        </div>
+        <div class="field">
+          <label for="trainerInput">Your spelling</label>
+          <div class="input-row">
+            <input class="input" type="text" id="trainerInput" autocomplete="off" autocapitalize="none" autocorrect="off" spellcheck="false" placeholder="Type the word and press Enter" disabled>
+            <button type="button" class="btn btn-primary" id="trainerCheck" disabled>Check</button>
+          </div>
+        </div>
+        <p class="feedback" id="trainerFeedback" role="status"></p>
+        <div class="trainer-foot">
+          <span id="trainerScore">Score: 0 / 0</span>
+          <span class="btn-row">
+            <button type="button" class="btn btn-ghost speak" id="trainerSpeak"><svg class="i" aria-hidden="true"><use href="#i-volume"/></svg> Hear the word</button>
+            <button type="button" class="btn btn-ghost" id="trainerSkip" disabled>Skip word</button>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section on-board" id="spellingbee">
+  <div class="wrap">
+    <div class="section-head reveal"><p class="eyebrow">Head-to-head</p><h2>Spelling Bee Challenge</h2><p>Pick a difficulty, then go head-to-head with a simulated fellow contestant across 10 spelling-bee words. Whoever spells more correctly wins, just like the real thing at Funduk Hall.</p></div>
+    <div class="bee-levels stagger" id="beeLevels">
+      <button type="button" class="card bee-level reveal" data-diff="easy" disabled><span class="badge">Easy</span><h3>Category A words</h3><p>Everyday vocabulary, a great warm-up round. Your simulated rival is fairly sharp here too.</p></button>
+      <button type="button" class="card bee-level reveal" data-diff="medium" disabled><span class="badge">Medium</span><h3>Category B words</h3><p>Intermediate words with tricky spelling patterns. The contest gets closer.</p></button>
+      <button type="button" class="card bee-level reveal" data-diff="hard" disabled><span class="badge">Hard</span><h3>Category C occupations</h3><p>The toughest tier: real job-title spellings. Even your rival starts to struggle.</p></button>
+    </div>
+    <div class="bee-game" id="beeGame" hidden>
+      <div class="bee-score">
+        <div class="who you"><span class="n" id="beeYou">0</span><span class="nm">You</span></div>
+        <div class="bee-round" id="beeRound">Round 1 / 10</div>
+        <div class="who"><span class="n" id="beeRival">0</span><span class="nm" id="beeRivalName">Rival</span></div>
+      </div>
+      <div class="clue" aria-live="polite">
+        <span class="clue-cat" id="beeCat"></span><span class="clue-meaning" id="beeMeaning"></span>
+        <span class="clue-example" id="beeExample"></span><span class="clue-ipa" id="beeIpa"></span>
+      </div>
+      <div class="field">
+        <label for="beeInput">Your spelling</label>
+        <div class="input-row">
+          <input class="input" type="text" id="beeInput" autocomplete="off" autocapitalize="none" autocorrect="off" spellcheck="false" placeholder="Type the word and press Enter">
+          <button type="button" class="btn btn-primary" id="beeSubmit">Submit</button>
+          <button type="button" class="btn btn-ghost speak" id="beeSpeak"><svg class="i" aria-hidden="true"><use href="#i-volume"/></svg> Hear it</button>
+        </div>
+      </div>
+      <ul class="bee-feed" id="beeFeed" aria-live="polite"></ul>
+    </div>
+    <div class="bee-result" id="beeResult" hidden>
+      <h3 id="beeResultTitle"></h3><p id="beeResultSub"></p><p><b id="beeFinal"></b></p>
+      <button type="button" class="btn btn-primary" id="beeAgain">Play again</button>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="info-grid stagger">
+      <div class="card reveal"><span class="ic"><svg class="i" aria-hidden="true"><use href="#i-book"/></svg></span><h3>330-word bank</h3><p>Every clue comes from an expanded UK-English word list spanning everyday vocabulary, intermediate words and occupations.</p></div>
+      <div class="card reveal"><span class="ic"><svg class="i" aria-hidden="true"><use href="#i-shield"/></svg></span><h3>No spoilers</h3><p>The target word is automatically hidden in every example sentence, so the clue stays a genuine hint rather than an answer key.</p></div>
+      <div class="card reveal"><span class="ic"><svg class="i" aria-hidden="true"><use href="#i-search"/></svg></span><h3>Prefer to study?</h3><p>Browse every word with its meaning and pronunciation in the <a href="wordbank.html">Word Bank Explorer</a>.</p></div>
+    </div>
+  </div>
+</section>

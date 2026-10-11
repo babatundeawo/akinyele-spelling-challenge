@@ -1,0 +1,48 @@
+---
+title: Official Register | Akinyele Spelling Challenge 2026
+description: All 48 registered contestants and the 20 schools they represented at the Akinyele Spelling Challenge 2026.
+page: register
+---
+<section class="page-hero">
+  <div class="wrap">
+    <p class="breadcrumb"><a href="index.html">Home</a> / Register</p>
+    <p class="eyebrow">Official register</p>
+    <h1>Meet the 2026 contestants</h1>
+    <p class="lede">Every pupil who represented their school on the day, with their aspirations in their own words.</p>
+  </div>
+</section>
+
+<section class="section" id="contestants">
+  <div class="wrap">
+    <div class="controls">
+      <div class="search field">
+        <label class="vh" for="contestantSearch">Search by name or school</label>
+        <svg class="i" aria-hidden="true"><use href="#i-search"/></svg>
+        <input class="input" type="search" id="contestantSearch" placeholder="Search by name or school" autocomplete="off">
+      </div>
+      <div class="field">
+        <label class="vh" for="schoolFilter">Filter by school</label>
+        <select class="input" id="schoolFilter"><option value="all">All schools</option><!--@schoolOptions--></select>
+      </div>
+    </div>
+    <p class="meta-line" id="directoryMeta" role="status">48 contestants</p>
+    <div class="table-wrap">
+      <table class="directory">
+        <caption class="vh">Registered contestants, 2026</caption>
+        <thead><tr><th scope="col">No.</th><th scope="col">Contestant</th><th scope="col">School</th><th scope="col">Class</th><th scope="col">Aspiration</th></tr></thead>
+        <tbody id="contestantBody">
+<!--@contestants-->
+        </tbody>
+      </table>
+    </div>
+    <p class="empty" id="directoryEmpty" hidden>No contestants match your search.</p>
+    <p class="privacy"><svg class="i" aria-hidden="true"><use href="#i-shield"/></svg><span>This register reflects the official 48-name registration list. Press coverage reported &ldquo;over 50 pupils&rdquo; at the event itself, which included a small number of walk-in participants outside the formal register. Pupil ages are not published on this site as a privacy precaution. The full register with ages is available from the organising committee on request.</span></p>
+  </div>
+</section>
+
+<section class="section on-board">
+  <div class="wrap">
+    <div class="section-head reveal"><p class="eyebrow">Community</p><h2>Schools that showed up</h2><p>Twenty public and private primary schools across Akinyele LGA sent representatives to compete.</p></div>
+    <ul class="pills" id="schoolsCloud"><!--@schools--></ul>
+  </div>
+</section>

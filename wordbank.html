@@ -1,0 +1,35 @@
+---
+title: Word Bank Explorer | Akinyele Spelling Challenge 2026
+description: Explore a 330-word UK-English study bank, built from the original 187-word 2026 list plus many more words for extra practice.
+page: wordbank
+---
+<section class="page-hero">
+  <div class="wrap">
+    <p class="breadcrumb"><a href="index.html">Home</a> / Word Bank</p>
+    <p class="eyebrow">The full list</p>
+    <h1>Word bank explorer</h1>
+    <p class="lede">Starting from the original 187-word 2026 study list, the bank has been expanded to 330 words in UK English. Search by word or meaning, filter by category, and tap any card to reveal the definition.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="controls">
+      <div class="search field">
+        <label class="vh" for="wordSearch">Search words or meanings</label>
+        <svg class="i" aria-hidden="true"><use href="#i-search"/></svg>
+        <input class="input" type="search" id="wordSearch" placeholder="Search a word or meaning" autocomplete="off" disabled>
+      </div>
+      <div class="chips" role="group" aria-label="Filter by category" id="wordFilters">
+        <button type="button" class="chip" data-cat="all" aria-pressed="true">All</button>
+        <button type="button" class="chip" data-cat="A" aria-pressed="false">Category A</button>
+        <button type="button" class="chip" data-cat="B" aria-pressed="false">Category B</button>
+        <button type="button" class="chip" data-cat="C" aria-pressed="false">Category C</button>
+      </div>
+    </div>
+    <p class="meta-line" id="wordMeta" role="status">Loading words&hellip;</p>
+    <noscript><p class="no-js-note">The word bank needs JavaScript to load its 330 words. Please enable it and reload.</p></noscript>
+    <div class="word-grid" id="wordGrid"><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div></div>
+    <div class="more"><button type="button" class="btn btn-ghost" id="wordMore" hidden>Show more words</button></div>
+  </div>
+</section>

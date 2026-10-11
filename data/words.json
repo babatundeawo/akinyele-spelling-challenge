@@ -1,0 +1,2642 @@
+[
+ {
+  "no": 1,
+  "word": "Pitch",
+  "ipa": "/pɪtʃ/",
+  "meaning": "The level or tune of a sound",
+  "example": "She was singing in a different pitch.",
+  "category": "A"
+ },
+ {
+  "no": 2,
+  "word": "Denim",
+  "ipa": "/ˈdenɪm/",
+  "meaning": "A type of material used for jeans",
+  "example": "I like to wear denim jeans.",
+  "category": "A"
+ },
+ {
+  "no": 3,
+  "word": "Doctor",
+  "ipa": "/ˈdɒktə/",
+  "meaning": "A person that treats sick people",
+  "example": "I went to the doctor when I was sick.",
+  "category": "A"
+ },
+ {
+  "no": 4,
+  "word": "Gloves",
+  "ipa": "/ɡlʌvz/",
+  "meaning": "Hand covers to protect hands",
+  "example": "I put on gloves before I wash the dishes.",
+  "category": "A"
+ },
+ {
+  "no": 5,
+  "word": "Ocean",
+  "ipa": "/ˈəʊʃən/",
+  "meaning": "A large area of water covering Earth",
+  "example": "The ship sailed over the ocean.",
+  "category": "A"
+ },
+ {
+  "no": 6,
+  "word": "Cadet",
+  "ipa": "/kəˈdet/",
+  "meaning": "A person training in the armed forces or police",
+  "example": "The cadet was in training to be a police officer.",
+  "category": "A"
+ },
+ {
+  "no": 7,
+  "word": "Oxen",
+  "ipa": "/ˈɒksən/",
+  "meaning": "Plural of ox, a large domestic animal kept for milk",
+  "example": "A herd of oxen were grazing on the grass.",
+  "category": "A"
+ },
+ {
+  "no": 8,
+  "word": "Quail",
+  "ipa": "/kweɪl/",
+  "meaning": "A small brown bird",
+  "example": "A quail was in the nest.",
+  "category": "A"
+ },
+ {
+  "no": 9,
+  "word": "Arch",
+  "ipa": "/ɑːtʃ/",
+  "meaning": "A curved top that is held by two supports",
+  "example": "You enter the hall through a huge arch.",
+  "category": "A"
+ },
+ {
+  "no": 10,
+  "word": "Cheese",
+  "ipa": "/tʃiːz/",
+  "meaning": "A food made from milk curd",
+  "example": "I like to eat cheese and crackers.",
+  "category": "A"
+ },
+ {
+  "no": 11,
+  "word": "Teach",
+  "ipa": "/tiːtʃ/",
+  "meaning": "To help someone learn how to do something",
+  "example": "He will teach me how to play the game.",
+  "category": "A"
+ },
+ {
+  "no": 12,
+  "word": "Liver",
+  "ipa": "/ˈlɪvə/",
+  "meaning": "An organ in the body that cleans and filters blood",
+  "example": "The liver is an organ that filters blood.",
+  "category": "A"
+ },
+ {
+  "no": 13,
+  "word": "River",
+  "ipa": "/ˈrɪvə/",
+  "meaning": "A natural, large stream of water",
+  "example": "The canoe drifted up the river.",
+  "category": "A"
+ },
+ {
+  "no": 14,
+  "word": "Story",
+  "ipa": "/ˈstɔːri/",
+  "meaning": "A fictional tale shorter than a novel",
+  "example": "My teacher reads us a story every day.",
+  "category": "A"
+ },
+ {
+  "no": 15,
+  "word": "Mammal",
+  "ipa": "/ˈmæməl/",
+  "meaning": "An animal that feeds its young with milk from the mother",
+  "example": "A mammal feeds its young with milk.",
+  "category": "A"
+ },
+ {
+  "no": 16,
+  "word": "Mammoth",
+  "ipa": "/ˈmæməθ/",
+  "meaning": "An extinct elephant covered in long hair and curved tusks",
+  "example": "The mammoth lived long ago and had long hair and tusks.",
+  "category": "A"
+ },
+ {
+  "no": 17,
+  "word": "Events",
+  "ipa": "/ɪˈvents/",
+  "meaning": "Things that are planned; social occasions or activities",
+  "example": "There will be three events to raise money.",
+  "category": "A"
+ },
+ {
+  "no": 18,
+  "word": "Guard",
+  "ipa": "/ɡɑːd/",
+  "meaning": "To watch or protect",
+  "example": "The dog was set to guard the gate.",
+  "category": "A"
+ },
+ {
+  "no": 19,
+  "word": "Lamb",
+  "ipa": "/læm/",
+  "meaning": "A young sheep",
+  "example": "A baby sheep is called a lamb.",
+  "category": "A"
+ },
+ {
+  "no": 20,
+  "word": "Wrap",
+  "ipa": "/ræp/",
+  "meaning": "To cover by winding or folding",
+  "example": "We will wrap the present with green paper.",
+  "category": "A"
+ },
+ {
+  "no": 21,
+  "word": "Coarse",
+  "ipa": "/kɔːs/",
+  "meaning": "Having a harsh or rough quality",
+  "example": "The coarse sand was hard to walk on.",
+  "category": "A"
+ },
+ {
+  "no": 22,
+  "word": "Geese",
+  "ipa": "/ɡiːs/",
+  "meaning": "More than one goose",
+  "example": "The goose flew over to the other geese in the flock.",
+  "category": "A"
+ },
+ {
+  "no": 23,
+  "word": "Gel",
+  "ipa": "/dʒel/",
+  "meaning": "A thick jellylike substance",
+  "example": "As the mixture cooled it turned into a gel.",
+  "category": "A"
+ },
+ {
+  "no": 24,
+  "word": "Gem",
+  "ipa": "/dʒem/",
+  "meaning": "A cut and polished stone",
+  "example": "The precious gem sparkled in the light.",
+  "category": "A"
+ },
+ {
+  "no": 25,
+  "word": "Rye",
+  "ipa": "/raɪ/",
+  "meaning": "A type of grain used in baking",
+  "example": "Bread made with rye tastes different to wheat.",
+  "category": "A"
+ },
+ {
+  "no": 26,
+  "word": "Touch",
+  "ipa": "/tʌtʃ/",
+  "meaning": "To put your hand or fingers on someone or something",
+  "example": "Do not touch the wet paint.",
+  "category": "A"
+ },
+ {
+  "no": 27,
+  "word": "Wreck",
+  "ipa": "/rek/",
+  "meaning": "The remains of a ship or other vehicle",
+  "example": "The divers enjoyed diving on the wreck.",
+  "category": "A"
+ },
+ {
+  "no": 28,
+  "word": "Quiche",
+  "ipa": "/kiːʃ/",
+  "meaning": "A pie made with eggs",
+  "example": "We made the quiche with lots of eggs.",
+  "category": "A"
+ },
+ {
+  "no": 29,
+  "word": "Foul",
+  "ipa": "/faʊl/",
+  "meaning": "Extremely unpleasant",
+  "example": "There was a foul smell coming from the bathroom.",
+  "category": "A"
+ },
+ {
+  "no": 30,
+  "word": "Lure",
+  "ipa": "/ljʊə/",
+  "meaning": "To persuade someone to do something by offering something exciting",
+  "example": "I tried to lure the dog outside with a bone.",
+  "category": "A"
+ },
+ {
+  "no": 31,
+  "word": "Chief",
+  "ipa": "/tʃiːf/",
+  "meaning": "A person who is in charge",
+  "example": "A new chief of police has just been appointed.",
+  "category": "A"
+ },
+ {
+  "no": 32,
+  "word": "Gnat",
+  "ipa": "/næt/",
+  "meaning": "A small, flying, biting insect",
+  "example": "A gnat is a small flying insect which bites.",
+  "category": "A"
+ },
+ {
+  "no": 33,
+  "word": "Gnaw",
+  "ipa": "/nɔː/",
+  "meaning": "To bite or chew something repeatedly",
+  "example": "My dog loves to gnaw on bones.",
+  "category": "A"
+ },
+ {
+  "no": 34,
+  "word": "Quip",
+  "ipa": "/kwɪp/",
+  "meaning": "A funny and clever comment",
+  "example": "He made a quip and clever comment.",
+  "category": "A"
+ },
+ {
+  "no": 35,
+  "word": "Raise",
+  "ipa": "/reɪz/",
+  "meaning": "To lift up",
+  "example": "I raise my arm to answer the question.",
+  "category": "A"
+ },
+ {
+  "no": 36,
+  "word": "Sauce",
+  "ipa": "/sɔːs/",
+  "meaning": "A thick liquid eaten with food",
+  "example": "I love to have sauce on my pie.",
+  "category": "A"
+ },
+ {
+  "no": 37,
+  "word": "Bight",
+  "ipa": "/baɪt/",
+  "meaning": "A curve in a coastline",
+  "example": "A curve in a coastline is called a bight.",
+  "category": "A"
+ },
+ {
+  "no": 38,
+  "word": "Thigh",
+  "ipa": "/θaɪ/",
+  "meaning": "The part of the leg above the knee",
+  "example": "The thigh muscle is above the knee.",
+  "category": "A"
+ },
+ {
+  "no": 39,
+  "word": "Balm",
+  "ipa": "/bɑːm/",
+  "meaning": "A fragrant cream or liquid used to heal the skin",
+  "example": "Dad uses a skin balm after he shaves.",
+  "category": "A"
+ },
+ {
+  "no": 40,
+  "word": "Calm",
+  "ipa": "/kɑːm/",
+  "meaning": "Not angry, upset or excited",
+  "example": "We have to stay calm if we hear the fire alarm.",
+  "category": "A"
+ },
+ {
+  "no": 41,
+  "word": "Weigh",
+  "ipa": "/weɪ/",
+  "meaning": "To find out how heavy someone or something is",
+  "example": "I use the scales to weigh the ingredients carefully.",
+  "category": "A"
+ },
+ {
+  "no": 42,
+  "word": "Zeus",
+  "ipa": "/zjuːs/",
+  "meaning": "The ruler of the gods in Greek mythology",
+  "example": "Zeus is the ruler of the gods in Greek mythology.",
+  "category": "A"
+ },
+ {
+  "no": 43,
+  "word": "Column",
+  "ipa": "/ˈkɒləm/",
+  "meaning": "One of two or more vertical sections of a printed page",
+  "example": "Please read down the left column.",
+  "category": "A"
+ },
+ {
+  "no": 44,
+  "word": "Zoology",
+  "ipa": "/zuːˈɒlədʒi/",
+  "meaning": "The study of animals",
+  "example": "She wants to study zoology and animals.",
+  "category": "A"
+ },
+ {
+  "no": 45,
+  "word": "Corpses",
+  "ipa": "/ˈkɔːpsɪz/",
+  "meaning": "Plural of corpse, a dead body",
+  "example": "The ancient corpses were buried thousands of years ago.",
+  "category": "A"
+ },
+ {
+  "no": 46,
+  "word": "Cities",
+  "ipa": "/ˈsɪtiz/",
+  "meaning": "Plural of city, a large town",
+  "example": "London and Paris are two large cities.",
+  "category": "A"
+ },
+ {
+  "no": 47,
+  "word": "Passage",
+  "ipa": "/ˈpæsɪdʒ/",
+  "meaning": "An alley or pathway",
+  "example": "We took a shortcut down the side passage.",
+  "category": "A"
+ },
+ {
+  "no": 48,
+  "word": "Compartment",
+  "ipa": "/kəmˈpɑːtmənt/",
+  "meaning": "A section of something larger",
+  "example": "I keep snacks in the bottom compartment of my bag.",
+  "category": "A"
+ },
+ {
+  "no": 49,
+  "word": "Support",
+  "ipa": "/səˈpɔːt/",
+  "meaning": "To give assistance or comfort",
+  "example": "My teacher will support my learning.",
+  "category": "A"
+ },
+ {
+  "no": 50,
+  "word": "Advance",
+  "ipa": "/ədˈvɑːns/",
+  "meaning": "To move forward in a purposeful way",
+  "example": "I want to advance to the next level of the game.",
+  "category": "A"
+ },
+ {
+  "no": 51,
+  "word": "Balance",
+  "ipa": "/ˈbæl.əns/",
+  "meaning": "An even distribution of weight",
+  "example": "The toddler lost his balance as he was trying to walk.",
+  "category": "A"
+ },
+ {
+  "no": 52,
+  "word": "Clearance",
+  "ipa": "/ˈklɪərəns/",
+  "meaning": "The process of removing things",
+  "example": "There was a large boot sale after the house clearance.",
+  "category": "A"
+ },
+ {
+  "no": 53,
+  "word": "Budget",
+  "ipa": "/ˈbʌdʒɪt/",
+  "meaning": "An amount of money you have available to spend",
+  "example": "My parents made a weekly budget for our groceries.",
+  "category": "A"
+ },
+ {
+  "no": 54,
+  "word": "Rhythm",
+  "ipa": "/ˈrɪðəm/",
+  "meaning": "A strong, regular and repeated movement or sound",
+  "example": "The dancers all had great rhythm.",
+  "category": "A"
+ },
+ {
+  "no": 55,
+  "word": "Exterminate",
+  "ipa": "/ɪkˈstɜːmɪneɪt/",
+  "meaning": "To destroy or kill completely",
+  "example": "Our efforts to exterminate the cockroaches have failed.",
+  "category": "A"
+ },
+ {
+  "no": 56,
+  "word": "Possibility",
+  "ipa": "/ˌpɒsəˈbɪləti/",
+  "meaning": "A chance that something may or may not happen or exist",
+  "example": "There is a possibility that it will snow on the weekend.",
+  "category": "A"
+ },
+ {
+  "no": 57,
+  "word": "Chaos",
+  "ipa": "/ˈkeɪɒs/",
+  "meaning": "Complete confusion and disorder",
+  "example": "Computer failure caused chaos at the airport.",
+  "category": "A"
+ },
+ {
+  "no": 58,
+  "word": "Bicycle",
+  "ipa": "/ˈbaɪsɪkəl/",
+  "meaning": "A two-wheeled vehicle you ride by pedalling",
+  "example": "She rides her bicycle to school every day.",
+  "category": "A"
+ },
+ {
+  "no": 59,
+  "word": "Blanket",
+  "ipa": "/ˈblæŋkɪt/",
+  "meaning": "A large piece of soft material used to keep warm in bed",
+  "example": "He pulled the blanket over his shoulders.",
+  "category": "A"
+ },
+ {
+  "no": 60,
+  "word": "Breakfast",
+  "ipa": "/ˈbrekfəst/",
+  "meaning": "The first meal of the day",
+  "example": "We had eggs and toast for breakfast.",
+  "category": "A"
+ },
+ {
+  "no": 61,
+  "word": "Bridge",
+  "ipa": "/brɪdʒ/",
+  "meaning": "A structure built over a river or road so people can cross",
+  "example": "The bridge connects the two villages.",
+  "category": "A"
+ },
+ {
+  "no": 62,
+  "word": "Butterfly",
+  "ipa": "/ˈbʌtəflaɪ/",
+  "meaning": "An insect with large, often colourful wings",
+  "example": "A butterfly landed on the flower.",
+  "category": "A"
+ },
+ {
+  "no": 63,
+  "word": "Calendar",
+  "ipa": "/ˈkælɪndə/",
+  "meaning": "A chart showing the days, weeks and months of a year",
+  "example": "She marked her birthday on the calendar.",
+  "category": "A"
+ },
+ {
+  "no": 64,
+  "word": "Camera",
+  "ipa": "/ˈkæmərə/",
+  "meaning": "A device used to take photographs",
+  "example": "He took a photo with his new camera.",
+  "category": "A"
+ },
+ {
+  "no": 65,
+  "word": "Candle",
+  "ipa": "/ˈkændəl/",
+  "meaning": "A stick of wax with a wick that is burnt to give light",
+  "example": "She lit a candle during the power cut.",
+  "category": "A"
+ },
+ {
+  "no": 66,
+  "word": "Carpet",
+  "ipa": "/ˈkɑːpɪt/",
+  "meaning": "A thick fabric covering used on floors",
+  "example": "The carpet in the hallway is bright red.",
+  "category": "A"
+ },
+ {
+  "no": 67,
+  "word": "Ceiling",
+  "ipa": "/ˈsiːlɪŋ/",
+  "meaning": "The upper surface of the inside of a room",
+  "example": "A fan hung from the ceiling.",
+  "category": "A"
+ },
+ {
+  "no": 68,
+  "word": "Chimney",
+  "ipa": "/ˈtʃɪmni/",
+  "meaning": "A pipe that carries smoke away from a fireplace",
+  "example": "Smoke rose from the cottage chimney.",
+  "category": "A"
+ },
+ {
+  "no": 69,
+  "word": "Circle",
+  "ipa": "/ˈsɜːkəl/",
+  "meaning": "A round shape with no corners",
+  "example": "The children stood in a circle.",
+  "category": "A"
+ },
+ {
+  "no": 70,
+  "word": "Classroom",
+  "ipa": "/ˈklɑːsruːm/",
+  "meaning": "A room in a school where lessons are taught",
+  "example": "Our classroom has twenty desks.",
+  "category": "A"
+ },
+ {
+  "no": 71,
+  "word": "Cupboard",
+  "ipa": "/ˈkʌbəd/",
+  "meaning": "A piece of furniture with doors and shelves for storage",
+  "example": "She put the plates in the cupboard.",
+  "category": "A"
+ },
+ {
+  "no": 72,
+  "word": "Curtain",
+  "ipa": "/ˈkɜːtən/",
+  "meaning": "A piece of material hung to cover a window",
+  "example": "He drew the curtain to block the sun.",
+  "category": "A"
+ },
+ {
+  "no": 73,
+  "word": "Diamond",
+  "ipa": "/ˈdaɪəmənd/",
+  "meaning": "A hard, precious stone that sparkles brightly",
+  "example": "Her ring had a small diamond in it.",
+  "category": "A"
+ },
+ {
+  "no": 74,
+  "word": "Dolphin",
+  "ipa": "/ˈdɒlfɪn/",
+  "meaning": "An intelligent sea mammal known for its curved fin",
+  "example": "A dolphin leapt out of the water.",
+  "category": "A"
+ },
+ {
+  "no": 75,
+  "word": "Dragon",
+  "ipa": "/ˈdræɡən/",
+  "meaning": "A mythical creature usually shown breathing fire",
+  "example": "The story described a fierce dragon.",
+  "category": "A"
+ },
+ {
+  "no": 76,
+  "word": "Elbow",
+  "ipa": "/ˈelbəʊ/",
+  "meaning": "The joint between the upper and lower arm",
+  "example": "He bent his elbow to lift the box.",
+  "category": "A"
+ },
+ {
+  "no": 77,
+  "word": "Envelope",
+  "ipa": "/ˈenvələʊp/",
+  "meaning": "A paper covering used to enclose a letter",
+  "example": "She sealed the letter in an envelope.",
+  "category": "A"
+ },
+ {
+  "no": 78,
+  "word": "Feather",
+  "ipa": "/ˈfeðə/",
+  "meaning": "One of the light structures covering a bird's body",
+  "example": "A feather drifted down from the nest.",
+  "category": "A"
+ },
+ {
+  "no": 79,
+  "word": "Forest",
+  "ipa": "/ˈfɒrɪst/",
+  "meaning": "A large area covered mainly with trees",
+  "example": "They walked through the dense forest.",
+  "category": "A"
+ },
+ {
+  "no": 80,
+  "word": "Fountain",
+  "ipa": "/ˈfaʊntən/",
+  "meaning": "A structure that shoots water into the air",
+  "example": "Children played near the park fountain.",
+  "category": "A"
+ },
+ {
+  "no": 81,
+  "word": "Giraffe",
+  "ipa": "/dʒɪˈrɑːf/",
+  "meaning": "A tall African animal with a very long neck",
+  "example": "The giraffe reached the top branches.",
+  "category": "A"
+ },
+ {
+  "no": 82,
+  "word": "Harvest",
+  "ipa": "/ˈhɑːvɪst/",
+  "meaning": "The gathering of crops when they are ripe",
+  "example": "The farmers worked hard during harvest.",
+  "category": "A"
+ },
+ {
+  "no": 83,
+  "word": "Hospital",
+  "ipa": "/ˈhɒspɪtəl/",
+  "meaning": "A place where sick or injured people are treated",
+  "example": "She was taken to hospital by ambulance.",
+  "category": "A"
+ },
+ {
+  "no": 84,
+  "word": "Island",
+  "ipa": "/ˈaɪlənd/",
+  "meaning": "A piece of land surrounded completely by water",
+  "example": "They sailed to a small island.",
+  "category": "A"
+ },
+ {
+  "no": 85,
+  "word": "Jacket",
+  "ipa": "/ˈdʒækɪt/",
+  "meaning": "A short coat worn on the upper body",
+  "example": "He wore a warm jacket in winter.",
+  "category": "A"
+ },
+ {
+  "no": 86,
+  "word": "Journey",
+  "ipa": "/ˈdʒɜːni/",
+  "meaning": "An act of travelling from one place to another",
+  "example": "Our journey to Ibadan took two hours.",
+  "category": "A"
+ },
+ {
+  "no": 87,
+  "word": "Kitchen",
+  "ipa": "/ˈkɪtʃɪn/",
+  "meaning": "A room where food is prepared and cooked",
+  "example": "Mother was cooking in the kitchen.",
+  "category": "A"
+ },
+ {
+  "no": 88,
+  "word": "Ladder",
+  "ipa": "/ˈlædə/",
+  "meaning": "A structure with steps used for climbing",
+  "example": "He climbed the ladder to fix the roof.",
+  "category": "A"
+ },
+ {
+  "no": 89,
+  "word": "Lantern",
+  "ipa": "/ˈlæntən/",
+  "meaning": "A lamp with a transparent case, often carried",
+  "example": "The lantern lit the dark path.",
+  "category": "A"
+ },
+ {
+  "no": 90,
+  "word": "Lizard",
+  "ipa": "/ˈlɪzəd/",
+  "meaning": "A reptile with four legs and a long tail",
+  "example": "A lizard sunbathed on the wall.",
+  "category": "A"
+ },
+ {
+  "no": 91,
+  "word": "Magnet",
+  "ipa": "/ˈmæɡnɪt/",
+  "meaning": "An object that attracts iron or steel",
+  "example": "The magnet picked up the metal pins.",
+  "category": "A"
+ },
+ {
+  "no": 92,
+  "word": "Mirror",
+  "ipa": "/ˈmɪrə/",
+  "meaning": "A surface that reflects a clear image",
+  "example": "She looked at herself in the mirror.",
+  "category": "A"
+ },
+ {
+  "no": 93,
+  "word": "Mountain",
+  "ipa": "/ˈmaʊntɪn/",
+  "meaning": "A very high area of land with steep sides",
+  "example": "They climbed the mountain at dawn.",
+  "category": "A"
+ },
+ {
+  "no": 94,
+  "word": "Necklace",
+  "ipa": "/ˈnekləs/",
+  "meaning": "A piece of jewellery worn around the neck",
+  "example": "She wore a beaded necklace to the party.",
+  "category": "A"
+ },
+ {
+  "no": 95,
+  "word": "Notebook",
+  "ipa": "/ˈnəʊtbʊk/",
+  "meaning": "A small book for writing notes",
+  "example": "He wrote the homework in his notebook.",
+  "category": "A"
+ },
+ {
+  "no": 96,
+  "word": "Orange",
+  "ipa": "/ˈɒrɪndʒ/",
+  "meaning": "A round citrus fruit with orange skin",
+  "example": "She peeled an orange for a snack.",
+  "category": "A"
+ },
+ {
+  "no": 97,
+  "word": "Parrot",
+  "ipa": "/ˈpærət/",
+  "meaning": "A brightly coloured tropical bird that can copy speech",
+  "example": "The parrot repeated everything we said.",
+  "category": "A"
+ },
+ {
+  "no": 98,
+  "word": "Pencil",
+  "ipa": "/ˈpensəl/",
+  "meaning": "A thin instrument used for writing or drawing",
+  "example": "She sharpened her pencil before the test.",
+  "category": "A"
+ },
+ {
+  "no": 99,
+  "word": "Pillow",
+  "ipa": "/ˈpɪləʊ/",
+  "meaning": "A cushion used to support the head in bed",
+  "example": "He rested his head on the soft pillow.",
+  "category": "A"
+ },
+ {
+  "no": 100,
+  "word": "Planet",
+  "ipa": "/ˈplænɪt/",
+  "meaning": "A large body that orbits a star, such as the sun",
+  "example": "Earth is the third planet from the sun.",
+  "category": "A"
+ },
+ {
+  "no": 101,
+  "word": "Pumpkin",
+  "ipa": "/ˈpʌmpkɪn/",
+  "meaning": "A large round orange vegetable",
+  "example": "We carved a pumpkin for the festival.",
+  "category": "A"
+ },
+ {
+  "no": 102,
+  "word": "Rainbow",
+  "ipa": "/ˈreɪnbəʊ/",
+  "meaning": "An arch of colours seen in the sky after rain",
+  "example": "A rainbow appeared after the storm.",
+  "category": "A"
+ },
+ {
+  "no": 103,
+  "word": "Sandwich",
+  "ipa": "/ˈsænwɪdʒ/",
+  "meaning": "Two slices of bread with a filling between them",
+  "example": "He packed a cheese sandwich for lunch.",
+  "category": "A"
+ },
+ {
+  "no": 104,
+  "word": "Scissors",
+  "ipa": "/ˈsɪzəz/",
+  "meaning": "A tool with two blades used for cutting",
+  "example": "She used scissors to cut the paper.",
+  "category": "A"
+ },
+ {
+  "no": 105,
+  "word": "Shadow",
+  "ipa": "/ˈʃædəʊ/",
+  "meaning": "A dark shape made when something blocks light",
+  "example": "His shadow stretched across the yard.",
+  "category": "A"
+ },
+ {
+  "no": 106,
+  "word": "Squirrel",
+  "ipa": "/ˈskwɪrəl/",
+  "meaning": "A small animal with a bushy tail that climbs trees",
+  "example": "A squirrel buried nuts in the garden.",
+  "category": "A"
+ },
+ {
+  "no": 107,
+  "word": "Umbrella",
+  "ipa": "/ʌmˈbrelə/",
+  "meaning": "A folding device used for protection from rain",
+  "example": "She opened her umbrella in the rain.",
+  "category": "A"
+ },
+ {
+  "no": 1,
+  "word": "Orchestra",
+  "ipa": "/ˈɔːkɪstrə/",
+  "meaning": "A large group of musicians who play many instruments together, led by a conductor",
+  "example": "She played the violin in the school orchestra.",
+  "category": "B"
+ },
+ {
+  "no": 2,
+  "word": "Category",
+  "ipa": "/ˈkætəɡəri/",
+  "meaning": "A group of people or things that are similar in some way",
+  "example": "He competed in the race in his age category.",
+  "category": "B"
+ },
+ {
+  "no": 3,
+  "word": "Originated",
+  "ipa": "/əˈrɪdʒɪneɪtɪd/",
+  "meaning": "Began to exist",
+  "example": "The waltz originated in Vienna.",
+  "category": "B"
+ },
+ {
+  "no": 4,
+  "word": "Geography",
+  "ipa": "/dʒiˈɒɡrəfi/",
+  "meaning": "The natural features of an area",
+  "example": "In class we have been studying the geography of the local area.",
+  "category": "B"
+ },
+ {
+  "no": 5,
+  "word": "Sapphire",
+  "ipa": "/ˈsæfaɪə/",
+  "meaning": "A clear bright blue gemstone",
+  "example": "She received a sapphire ring on her sixteenth birthday.",
+  "category": "B"
+ },
+ {
+  "no": 6,
+  "word": "Squadron",
+  "ipa": "/ˈskwɒdrən/",
+  "meaning": "A military unit consisting of soldiers, ships or aircraft",
+  "example": "The squadron of bombers returned to their base.",
+  "category": "B"
+ },
+ {
+  "no": 7,
+  "word": "Fatigue",
+  "ipa": "/fəˈtiːɡ/",
+  "meaning": "Extreme tiredness",
+  "example": "She was suffering from fatigue after the long hike.",
+  "category": "B"
+ },
+ {
+  "no": 8,
+  "word": "Recruit",
+  "ipa": "/rɪˈkruːt/",
+  "meaning": "To find new people to take part in an event or join a group or team",
+  "example": "We had to recruit more players for our team.",
+  "category": "B"
+ },
+ {
+  "no": 9,
+  "word": "Chaperone",
+  "ipa": "/ˈʃæpərəʊn/",
+  "meaning": "A person who goes with and is responsible for a group of young people",
+  "example": "My father volunteered to be a chaperone at the next school dance.",
+  "category": "B"
+ },
+ {
+  "no": 10,
+  "word": "Charade",
+  "ipa": "/ʃəˈrɑːd/",
+  "meaning": "Something done in order to pretend something is true when it is not",
+  "example": "They continue the charade until it wasn't fun anymore.",
+  "category": "B"
+ },
+ {
+  "no": 11,
+  "word": "Chassis",
+  "ipa": "/ˈʃæsi/",
+  "meaning": "The base frame that a car or other vehicle is built on",
+  "example": "The chassis of the car was damaged in the accident.",
+  "category": "B"
+ },
+ {
+  "no": 12,
+  "word": "Chivalry",
+  "ipa": "/ˈʃɪvəlri/",
+  "meaning": "Very polite, honest and kind behaviour",
+  "example": "I love listening to stories of knights and their chivalry.",
+  "category": "B"
+ },
+ {
+  "no": 13,
+  "word": "Cliche",
+  "ipa": "/ˈkliːʃeɪ/",
+  "meaning": "A phrase that has been used so often that it is no longer original",
+  "example": "'Time flies when you are having fun' is an example of a cliche.",
+  "category": "B"
+ },
+ {
+  "no": 14,
+  "word": "Machinery",
+  "ipa": "/məˈʃiːnəri/",
+  "meaning": "Machines of a particular kind or machines in general",
+  "example": "The farm machinery is kept in the barn.",
+  "category": "B"
+ },
+ {
+  "no": 15,
+  "word": "Peasants",
+  "ipa": "/ˈpezənts/",
+  "meaning": "In history, a person of a low social class of farm workers",
+  "example": "The land was farmed by peasants for hundreds of years.",
+  "category": "B"
+ },
+ {
+  "no": 16,
+  "word": "Perimeter",
+  "ipa": "/pəˈrɪmɪtə/",
+  "meaning": "The outside edge of an area, surface or flat shape",
+  "example": "Soldiers guarded the perimeter of the camp.",
+  "category": "B"
+ },
+ {
+  "no": 17,
+  "word": "Persuade",
+  "ipa": "/pəˈsweɪd/",
+  "meaning": "To cause someone to do or believe something by asking or arguing",
+  "example": "I am trying to persuade my parents to increase my pocket money.",
+  "category": "B"
+ },
+ {
+  "no": 18,
+  "word": "Thermometer",
+  "ipa": "/θəˈmɒmɪtə/",
+  "meaning": "A device used to measure temperature of a person's body or the air",
+  "example": "Mum used a thermometer to see if I had a fever.",
+  "category": "B"
+ },
+ {
+  "no": 19,
+  "word": "Toupee",
+  "ipa": "/ˈtuːpeɪ/",
+  "meaning": "A small wig worn by a man to cover a bald spot on his head",
+  "example": "The actor was wearing a black toupee on his head.",
+  "category": "B"
+ },
+ {
+  "no": 20,
+  "word": "Camouflage",
+  "ipa": "/ˈkæməflɑːʒ/",
+  "meaning": "The way some animals are coloured so they cannot be seen in their natural surroundings",
+  "example": "A stick insect's colour and shape helps it to hide in a tree.",
+  "category": "B"
+ },
+ {
+  "no": 21,
+  "word": "Limousine",
+  "ipa": "/ˈlɪməziːn/",
+  "meaning": "A large, expensive car often driven by a paid driver",
+  "example": "The bride and groom hired a limousine for their wedding day.",
+  "category": "B"
+ },
+ {
+  "no": 22,
+  "word": "Gargoyle",
+  "ipa": "/ˈɡɑːɡɔɪl/",
+  "meaning": "A stone object in the shape of the head of an ugly creature, usually seen on old buildings",
+  "example": "A row of gargoyles perch on the roof in front of the church.",
+  "category": "B"
+ },
+ {
+  "no": 23,
+  "word": "Psalmody",
+  "ipa": "/ˈsɑːm.ə.di/",
+  "meaning": "The singing or chanting of psalms",
+  "example": "The monks practiced psalmody during evening prayers.",
+  "category": "B"
+ },
+ {
+  "no": 24,
+  "word": "Souvenir",
+  "ipa": "/ˌsuːvəˈnɪə/",
+  "meaning": "An item kept as a reminder of a place or event",
+  "example": "She bought a souvenir from her trip to Rome.",
+  "category": "B"
+ },
+ {
+  "no": 25,
+  "word": "Pseudonym",
+  "ipa": "/ˈsjuːdənɪm/",
+  "meaning": "A false name used by an author or artist",
+  "example": "The novel was published under a pseudonym.",
+  "category": "B"
+ },
+ {
+  "no": 26,
+  "word": "Paraphernalia",
+  "ipa": "/ˌpærəfəˈneɪliə/",
+  "meaning": "Miscellaneous articles or equipment",
+  "example": "His desk was full of travel paraphernalia.",
+  "category": "B"
+ },
+ {
+  "no": 27,
+  "word": "Pomegranate",
+  "ipa": "/ˈpɒmɪɡrænɪt/",
+  "meaning": "A fruit with red seeds",
+  "example": "She added pomegranate seeds to the salad.",
+  "category": "B"
+ },
+ {
+  "no": 28,
+  "word": "Synecdoche",
+  "ipa": "/sɪˈnekdəki/",
+  "meaning": "A figure of speech where a part represents the whole",
+  "example": "'Wheels' is a synecdoche for 'car.'",
+  "category": "B"
+ },
+ {
+  "no": 29,
+  "word": "Onomatopoeia",
+  "ipa": "/ˌɒnəˌmætəˈpiːə/",
+  "meaning": "Words that imitate sounds",
+  "example": "'Bang' is an example of onomatopoeia.",
+  "category": "B"
+ },
+ {
+  "no": 30,
+  "word": "Hypotenuse",
+  "ipa": "/haɪˈpɒtənjuːs/",
+  "meaning": "The longest side of a right-angled triangle",
+  "example": "The hypotenuse lies opposite the right angle.",
+  "category": "B"
+ },
+ {
+  "no": 31,
+  "word": "Kwashiorkor",
+  "ipa": "/ˌkwɑːʃiˈɔːkɔː/",
+  "meaning": "Severe malnutrition caused by protein deficiency",
+  "example": "Kwashiorkor often affects children in famine areas.",
+  "category": "B"
+ },
+ {
+  "no": 32,
+  "word": "Rhinoceros",
+  "ipa": "/raɪˈnɒsərəs/",
+  "meaning": "A large, thick-skinned animal with horns",
+  "example": "The rhinoceros grazed near the watering hole.",
+  "category": "B"
+ },
+ {
+  "no": 33,
+  "word": "Chauffeur",
+  "ipa": "/ˈʃəʊfə/",
+  "meaning": "A person employed to drive a car",
+  "example": "The chauffeur opened the car door for the guest.",
+  "category": "B"
+ },
+ {
+  "no": 34,
+  "word": "Hoity-Toity",
+  "ipa": "/ˌhɔɪtiˈtɔɪti/",
+  "meaning": "Pretentiously self-important or snobbish",
+  "example": "She acted hoity-toity at the dinner party.",
+  "category": "B"
+ },
+ {
+  "no": 35,
+  "word": "Diaphragm",
+  "ipa": "/ˈdaɪəfræm/",
+  "meaning": "A muscle that helps with breathing",
+  "example": "The singer strengthened her diaphragm through vocal exercises.",
+  "category": "B"
+ },
+ {
+  "no": 36,
+  "word": "Bouquet",
+  "ipa": "/buːˈkeɪ/",
+  "meaning": "An arrangement of flowers",
+  "example": "He gave her a bouquet of roses.",
+  "category": "B"
+ },
+ {
+  "no": 37,
+  "word": "Thematic",
+  "ipa": "/θiːˈmætɪk/",
+  "meaning": "Relating to a theme",
+  "example": "The book has a thematic focus on justice.",
+  "category": "B"
+ },
+ {
+  "no": 38,
+  "word": "Perspire",
+  "ipa": "/pəˈspaɪə/",
+  "meaning": "To sweat",
+  "example": "He began to perspire after running.",
+  "category": "B"
+ },
+ {
+  "no": 39,
+  "word": "Architecture",
+  "ipa": "/ˈɑːkɪtektʃə/",
+  "meaning": "The art and design of buildings",
+  "example": "The city is famous for its modern architecture.",
+  "category": "B"
+ },
+ {
+  "no": 40,
+  "word": "Bronchi",
+  "ipa": "/ˈbrɒŋkaɪ/",
+  "meaning": "Airways in the lungs",
+  "example": "The bronchi carry air into the lungs.",
+  "category": "B"
+ },
+ {
+  "no": 41,
+  "word": "Conqueror",
+  "ipa": "/ˈkɒŋkərə/",
+  "meaning": "A person who defeats others in battle",
+  "example": "Alexander the Great was a famous conqueror.",
+  "category": "B"
+ },
+ {
+  "no": 42,
+  "word": "Jewellery",
+  "ipa": "/ˈdʒuːəlri/",
+  "meaning": "Decorative items made from precious materials",
+  "example": "She wore gold jewellery to the party.",
+  "category": "B"
+ },
+ {
+  "no": 43,
+  "word": "Intuition",
+  "ipa": "/ˌɪntjuːˈɪʃən/",
+  "meaning": "The ability to understand something instinctively",
+  "example": "She had an intuition that something was wrong.",
+  "category": "B"
+ },
+ {
+  "no": 44,
+  "word": "Acquaintance",
+  "ipa": "/əˈkweɪntəns/",
+  "meaning": "A person one knows slightly but is not a close friend",
+  "example": "He greeted an old acquaintance at the market.",
+  "category": "B"
+ },
+ {
+  "no": 45,
+  "word": "Bureaucracy",
+  "ipa": "/bjʊəˈrɒkrəsi/",
+  "meaning": "A system of government with many rules and officials",
+  "example": "Starting the business involved a lot of bureaucracy.",
+  "category": "B"
+ },
+ {
+  "no": 46,
+  "word": "Colleague",
+  "ipa": "/ˈkɒliːɡ/",
+  "meaning": "A person one works with",
+  "example": "She discussed the project with her colleague.",
+  "category": "B"
+ },
+ {
+  "no": 47,
+  "word": "Conscience",
+  "ipa": "/ˈkɒnʃəns/",
+  "meaning": "An inner sense of right and wrong",
+  "example": "His conscience told him to return the money.",
+  "category": "B"
+ },
+ {
+  "no": 48,
+  "word": "Embarrass",
+  "ipa": "/ɪmˈbærəs/",
+  "meaning": "To cause someone to feel awkward or ashamed",
+  "example": "The mistake did not embarrass him at all.",
+  "category": "B"
+ },
+ {
+  "no": 49,
+  "word": "Exaggerate",
+  "ipa": "/ɪɡˈzædʒəreɪt/",
+  "meaning": "To make something seem larger or better than it is",
+  "example": "He tends to exaggerate his achievements.",
+  "category": "B"
+ },
+ {
+  "no": 50,
+  "word": "Fluorescent",
+  "ipa": "/flɔːˈresənt/",
+  "meaning": "Giving off a bright light, often artificial",
+  "example": "The office was lit by fluorescent tubes.",
+  "category": "B"
+ },
+ {
+  "no": 51,
+  "word": "Guarantee",
+  "ipa": "/ˌɡærənˈtiː/",
+  "meaning": "A firm promise that something will happen or be done",
+  "example": "The shop gave a two-year guarantee on the fridge.",
+  "category": "B"
+ },
+ {
+  "no": 52,
+  "word": "Handkerchief",
+  "ipa": "/ˈhæŋkətʃɪf/",
+  "meaning": "A small square of fabric used for wiping the nose",
+  "example": "He kept a clean handkerchief in his pocket.",
+  "category": "B"
+ },
+ {
+  "no": 53,
+  "word": "Hierarchy",
+  "ipa": "/ˈhaɪərɑːki/",
+  "meaning": "A system in which people are ranked one above another",
+  "example": "The new employee learned the office hierarchy.",
+  "category": "B"
+ },
+ {
+  "no": 54,
+  "word": "Immediately",
+  "ipa": "/ɪˈmiːdiətli/",
+  "meaning": "Happening at once, without delay",
+  "example": "She answered the question immediately.",
+  "category": "B"
+ },
+ {
+  "no": 55,
+  "word": "Inoculate",
+  "ipa": "/ɪˈnɒkjʊleɪt/",
+  "meaning": "To protect against disease by injecting a vaccine",
+  "example": "The nurse will inoculate the pupils against measles.",
+  "category": "B"
+ },
+ {
+  "no": 56,
+  "word": "Knowledgeable",
+  "ipa": "/ˈnɒlɪdʒəbəl/",
+  "meaning": "Having or showing a lot of knowledge",
+  "example": "The old teacher was very knowledgeable about history.",
+  "category": "B"
+ },
+ {
+  "no": 57,
+  "word": "Leisure",
+  "ipa": "/ˈleʒə/",
+  "meaning": "Free time used for rest or enjoyment",
+  "example": "He spent his leisure time reading novels.",
+  "category": "B"
+ },
+ {
+  "no": 58,
+  "word": "Liaison",
+  "ipa": "/liˈeɪzɒn/",
+  "meaning": "Communication or cooperation between groups",
+  "example": "She acted as a liaison between the two schools.",
+  "category": "B"
+ },
+ {
+  "no": 59,
+  "word": "Maintenance",
+  "ipa": "/ˈmeɪntənəns/",
+  "meaning": "The process of keeping something in good condition",
+  "example": "Regular maintenance keeps the car running well.",
+  "category": "B"
+ },
+ {
+  "no": 60,
+  "word": "Manoeuvre",
+  "ipa": "/məˈnuːvə/",
+  "meaning": "A skilful or careful movement",
+  "example": "The driver made a clever manoeuvre to park.",
+  "category": "B"
+ },
+ {
+  "no": 61,
+  "word": "Miscellaneous",
+  "ipa": "/ˌmɪsəˈleɪniəs/",
+  "meaning": "Made up of different types of things",
+  "example": "The drawer was full of miscellaneous items.",
+  "category": "B"
+ },
+ {
+  "no": 62,
+  "word": "Necessary",
+  "ipa": "/ˈnesəsəri/",
+  "meaning": "Needed in order to achieve something",
+  "example": "It is necessary to study for the exam.",
+  "category": "B"
+ },
+ {
+  "no": 63,
+  "word": "Neighbour",
+  "ipa": "/ˈneɪbə/",
+  "meaning": "A person who lives next door or nearby",
+  "example": "Our neighbour helped us carry the boxes.",
+  "category": "B"
+ },
+ {
+  "no": 64,
+  "word": "Occasionally",
+  "ipa": "/əˈkeɪʒənəli/",
+  "meaning": "Now and then, but not often",
+  "example": "We occasionally visit our grandparents.",
+  "category": "B"
+ },
+ {
+  "no": 65,
+  "word": "Parliament",
+  "ipa": "/ˈpɑːləmənt/",
+  "meaning": "The group of people who make a country's laws",
+  "example": "The new law was debated in parliament.",
+  "category": "B"
+ },
+ {
+  "no": 66,
+  "word": "Personnel",
+  "ipa": "/ˌpɜːsəˈnel/",
+  "meaning": "The people employed by an organisation",
+  "example": "The personnel department handles new staff.",
+  "category": "B"
+ },
+ {
+  "no": 67,
+  "word": "Privilege",
+  "ipa": "/ˈprɪvəlɪdʒ/",
+  "meaning": "A special right or advantage given to someone",
+  "example": "It was a privilege to meet the author.",
+  "category": "B"
+ },
+ {
+  "no": 68,
+  "word": "Pronunciation",
+  "ipa": "/prəˌnʌnsiˈeɪʃən/",
+  "meaning": "The way in which a word is spoken",
+  "example": "Her pronunciation of French words was excellent.",
+  "category": "B"
+ },
+ {
+  "no": 69,
+  "word": "Questionnaire",
+  "ipa": "/ˌkwestʃəˈneə/",
+  "meaning": "A set of written questions used to gather information",
+  "example": "We filled in a questionnaire about the event.",
+  "category": "B"
+ },
+ {
+  "no": 70,
+  "word": "Reconnaissance",
+  "ipa": "/rɪˈkɒnɪsəns/",
+  "meaning": "A survey to gain information, often military",
+  "example": "The scouts carried out a reconnaissance of the area.",
+  "category": "B"
+ },
+ {
+  "no": 71,
+  "word": "Rendezvous",
+  "ipa": "/ˈrɒndeɪvuː/",
+  "meaning": "An arranged meeting at a particular time and place",
+  "example": "They planned a rendezvous at the station.",
+  "category": "B"
+ },
+ {
+  "no": 72,
+  "word": "Restaurant",
+  "ipa": "/ˈrestrɒnt/",
+  "meaning": "A place where meals are served to customers",
+  "example": "We booked a table at the new restaurant.",
+  "category": "B"
+ },
+ {
+  "no": 73,
+  "word": "Sergeant",
+  "ipa": "/ˈsɑːdʒənt/",
+  "meaning": "A rank of officer in the army or police",
+  "example": "The sergeant gave orders to the soldiers.",
+  "category": "B"
+ },
+ {
+  "no": 74,
+  "word": "Silhouette",
+  "ipa": "/ˌsɪluˈet/",
+  "meaning": "The dark outline of a person or object against light",
+  "example": "We saw his silhouette against the sunset.",
+  "category": "B"
+ },
+ {
+  "no": 75,
+  "word": "Subtle",
+  "ipa": "/ˈsʌtəl/",
+  "meaning": "Not obvious or easy to notice",
+  "example": "There was a subtle change in her voice.",
+  "category": "B"
+ },
+ {
+  "no": 76,
+  "word": "Surveillance",
+  "ipa": "/səˈveɪləns/",
+  "meaning": "Close observation, especially of a suspected person",
+  "example": "The bank uses cameras for surveillance.",
+  "category": "B"
+ },
+ {
+  "no": 77,
+  "word": "Temperature",
+  "ipa": "/ˈtemprətʃə/",
+  "meaning": "A measure of how hot or cold something is",
+  "example": "The temperature rose sharply at midday.",
+  "category": "B"
+ },
+ {
+  "no": 78,
+  "word": "Threshold",
+  "ipa": "/ˈθreʃhəʊld/",
+  "meaning": "A strip of wood or stone at the bottom of a doorway",
+  "example": "She paused at the threshold before entering.",
+  "category": "B"
+ },
+ {
+  "no": 79,
+  "word": "Tomorrow",
+  "ipa": "/təˈmɒrəʊ/",
+  "meaning": "The day after today",
+  "example": "We will travel to Lagos tomorrow.",
+  "category": "B"
+ },
+ {
+  "no": 80,
+  "word": "Unnecessary",
+  "ipa": "/ʌnˈnesəsəri/",
+  "meaning": "Not needed",
+  "example": "He avoided any unnecessary expenses.",
+  "category": "B"
+ },
+ {
+  "no": 81,
+  "word": "Vacuum",
+  "ipa": "/ˈvækjuːm/",
+  "meaning": "A space completely empty of matter, or a cleaning device",
+  "example": "She used a vacuum to clean the carpet.",
+  "category": "B"
+ },
+ {
+  "no": 82,
+  "word": "Vegetable",
+  "ipa": "/ˈvedʒtəbəl/",
+  "meaning": "A plant used as food, such as a carrot or cabbage",
+  "example": "He grows vegetables in his garden.",
+  "category": "B"
+ },
+ {
+  "no": 83,
+  "word": "Vehicle",
+  "ipa": "/ˈvɪəkəl/",
+  "meaning": "A machine used to transport people or goods",
+  "example": "The vehicle broke down on the motorway.",
+  "category": "B"
+ },
+ {
+  "no": 1,
+  "word": "Accountant",
+  "category": "C",
+  "ipa": "/əˈkaʊntənt/",
+  "meaning": "A person who keeps or checks financial accounts",
+  "example": "The accountant checked the company's records."
+ },
+ {
+  "no": 2,
+  "word": "Actor",
+  "category": "C",
+  "ipa": "/ˈæktə/",
+  "meaning": "A person who performs in plays or films",
+  "example": "The actor forgot his lines on stage."
+ },
+ {
+  "no": 3,
+  "word": "Actress",
+  "category": "C",
+  "ipa": "/ˈæktrɪs/",
+  "meaning": "A woman who performs in plays or films",
+  "example": "The actress won an award for her role."
+ },
+ {
+  "no": 4,
+  "word": "Architect",
+  "category": "C",
+  "ipa": "/ˈɑːkɪtekt/",
+  "meaning": "A person who designs buildings",
+  "example": "The architect drew plans for the new school."
+ },
+ {
+  "no": 5,
+  "word": "Artist",
+  "category": "C",
+  "ipa": "/ˈɑːtɪst/",
+  "meaning": "A person who creates paintings or other works of art",
+  "example": "The artist painted a beautiful sunset."
+ },
+ {
+  "no": 6,
+  "word": "Athlete",
+  "category": "C",
+  "ipa": "/ˈæθliːt/",
+  "meaning": "A person who is skilled in sports or physical exercise",
+  "example": "The athlete trained every morning before school."
+ },
+ {
+  "no": 7,
+  "word": "Author",
+  "category": "C",
+  "ipa": "/ˈɔːθə/",
+  "meaning": "A person who writes books",
+  "example": "The author signed copies of her new novel."
+ },
+ {
+  "no": 8,
+  "word": "Baker",
+  "category": "C",
+  "ipa": "/ˈbeɪkə/",
+  "meaning": "A person who bakes and sells bread and cakes",
+  "example": "The baker made fresh bread every morning."
+ },
+ {
+  "no": 9,
+  "word": "Barber",
+  "category": "C",
+  "ipa": "/ˈbɑːbə/",
+  "meaning": "A person who cuts men's hair",
+  "example": "The barber gave him a neat haircut."
+ },
+ {
+  "no": 10,
+  "word": "Bartender",
+  "category": "C",
+  "ipa": "/ˈbɑːtendə/",
+  "meaning": "A person who serves drinks at a bar",
+  "example": "The bartender mixed a fresh glass of juice."
+ },
+ {
+  "no": 11,
+  "word": "Butcher",
+  "category": "C",
+  "ipa": "/ˈbʊtʃə/",
+  "meaning": "A person who sells meat",
+  "example": "The butcher cut the meat into neat pieces."
+ },
+ {
+  "no": 12,
+  "word": "Carpenter",
+  "category": "C",
+  "ipa": "/ˈkɑːpɪntə/",
+  "meaning": "A person who makes and repairs wooden objects",
+  "example": "The carpenter built a sturdy wooden table."
+ },
+ {
+  "no": 13,
+  "word": "Cashier",
+  "category": "C",
+  "ipa": "/kæˈʃɪə/",
+  "meaning": "A person who handles payments in a shop",
+  "example": "The cashier counted the change carefully."
+ },
+ {
+  "no": 14,
+  "word": "Chef",
+  "category": "C",
+  "ipa": "/ʃef/",
+  "meaning": "A professional cook, especially the head cook",
+  "example": "The chef prepared a delicious three-course meal."
+ },
+ {
+  "no": 15,
+  "word": "Chemist",
+  "category": "C",
+  "ipa": "/ˈkemɪst/",
+  "meaning": "A person qualified to prepare and sell medicine, or a scientist who studies chemistry",
+  "example": "The chemist mixed the two liquids carefully."
+ },
+ {
+  "no": 16,
+  "word": "Chiropractor",
+  "category": "C",
+  "ipa": "/ˈkaɪrəʊpræktə/",
+  "meaning": "A person who treats problems of the bones and muscles by hand",
+  "example": "The chiropractor helped ease her back pain."
+ },
+ {
+  "no": 17,
+  "word": "Engineer",
+  "category": "C",
+  "ipa": "/ˌendʒɪˈnɪə/",
+  "meaning": "A person who designs or builds machines, engines or structures",
+  "example": "The engineer inspected the bridge for safety."
+ },
+ {
+  "no": 18,
+  "word": "Cobbler",
+  "category": "C",
+  "ipa": "/ˈkɒblə/",
+  "meaning": "A person who repairs shoes",
+  "example": "The cobbler fixed the torn sole of my shoe."
+ },
+ {
+  "no": 19,
+  "word": "Programmer",
+  "category": "C",
+  "ipa": "/ˈprəʊɡræmə/",
+  "meaning": "A person who writes computer programs",
+  "example": "The programmer fixed a bug in the app."
+ },
+ {
+  "no": 20,
+  "word": "Consultant",
+  "category": "C",
+  "ipa": "/kənˈsʌltənt/",
+  "meaning": "A person who gives expert advice",
+  "example": "The consultant advised the firm on its finances."
+ },
+ {
+  "no": 21,
+  "word": "Counsellor",
+  "category": "C",
+  "ipa": "/ˈkaʊnsələ/",
+  "meaning": "A person trained to give guidance on personal problems",
+  "example": "The counsellor listened patiently to the pupil."
+ },
+ {
+  "no": 22,
+  "word": "Dentist",
+  "category": "C",
+  "ipa": "/ˈdentɪst/",
+  "meaning": "A person qualified to treat teeth and gums",
+  "example": "The dentist checked my teeth for cavities."
+ },
+ {
+  "no": 23,
+  "word": "Designer",
+  "category": "C",
+  "ipa": "/dɪˈzaɪnə/",
+  "meaning": "A person who plans the look or function of something",
+  "example": "The designer sketched a new dress pattern."
+ },
+ {
+  "no": 24,
+  "word": "Detective",
+  "category": "C",
+  "ipa": "/dɪˈtektɪv/",
+  "meaning": "A person, often a police officer, who investigates crimes",
+  "example": "The detective solved the mystery in a week."
+ },
+ {
+  "no": 25,
+  "word": "Investigator",
+  "category": "C",
+  "ipa": "/ɪnˈvestɪɡeɪtə/",
+  "meaning": "A person who examines facts to discover the truth",
+  "example": "The investigator gathered evidence at the scene."
+ },
+ {
+  "no": 26,
+  "word": "Doctor",
+  "category": "C",
+  "ipa": "/ˈdɒktə/",
+  "meaning": "A person qualified to treat sick people",
+  "example": "The doctor examined the patient carefully."
+ },
+ {
+  "no": 27,
+  "word": "Electrician",
+  "category": "C",
+  "ipa": "/ɪˌlekˈtrɪʃən/",
+  "meaning": "A person who installs and repairs electrical equipment",
+  "example": "The electrician fixed the faulty wiring."
+ },
+ {
+  "no": 28,
+  "word": "Farmer",
+  "category": "C",
+  "ipa": "/ˈfɑːmə/",
+  "meaning": "A person who owns or manages a farm",
+  "example": "The farmer harvested the maize in October."
+ },
+ {
+  "no": 29,
+  "word": "Fashion Designer",
+  "category": "C",
+  "ipa": "/ˈfæʃən dɪˌzaɪnə/",
+  "meaning": "A person who designs clothes",
+  "example": "The fashion designer showed her new collection."
+ },
+ {
+  "no": 30,
+  "word": "Firefighter",
+  "category": "C",
+  "ipa": "/ˈfaɪəfaɪtə/",
+  "meaning": "A person who puts out dangerous fires",
+  "example": "The firefighter rescued the cat from the tree."
+ },
+ {
+  "no": 31,
+  "word": "Fisherman",
+  "category": "C",
+  "ipa": "/ˈfɪʃəmən/",
+  "meaning": "A person who catches fish for a living",
+  "example": "The fisherman cast his net into the river."
+ },
+ {
+  "no": 32,
+  "word": "Florist",
+  "category": "C",
+  "ipa": "/ˈflɒrɪst/",
+  "meaning": "A person who sells and arranges flowers",
+  "example": "The florist arranged a bright bunch of roses."
+ },
+ {
+  "no": 33,
+  "word": "Foreman",
+  "category": "C",
+  "ipa": "/ˈfɔːmən/",
+  "meaning": "A worker who supervises other workers",
+  "example": "The foreman checked the site before work began."
+ },
+ {
+  "no": 34,
+  "word": "Freelancer",
+  "category": "C",
+  "ipa": "/ˈfriːlɑːnsə/",
+  "meaning": "A person who works independently for different employers",
+  "example": "The freelancer designed logos for many clients."
+ },
+ {
+  "no": 35,
+  "word": "Fundraiser",
+  "category": "C",
+  "ipa": "/ˈfʌndreɪzə/",
+  "meaning": "A person who organises the collection of money for a cause",
+  "example": "The fundraiser organised a walk for charity."
+ },
+ {
+  "no": 36,
+  "word": "Gardener",
+  "category": "C",
+  "ipa": "/ˈɡɑːdnə/",
+  "meaning": "A person who tends and cultivates a garden",
+  "example": "The gardener watered the flowers every evening."
+ },
+ {
+  "no": 37,
+  "word": "Graphic Designer",
+  "category": "C",
+  "ipa": "/ˈɡræfɪk dɪˌzaɪnə/",
+  "meaning": "A person who creates visual designs for print or screen",
+  "example": "The graphic designer created the new poster."
+ },
+ {
+  "no": 38,
+  "word": "Hairdresser",
+  "category": "C",
+  "ipa": "/ˈheədresə/",
+  "meaning": "A person who cuts and styles hair",
+  "example": "The hairdresser styled her hair for the party."
+ },
+ {
+  "no": 39,
+  "word": "Housekeeper",
+  "category": "C",
+  "ipa": "/ˈhaʊskiːpə/",
+  "meaning": "A person employed to manage a household",
+  "example": "The housekeeper tidied every room in the house."
+ },
+ {
+  "no": 40,
+  "word": "Interior Designer",
+  "category": "C",
+  "ipa": "/ɪnˌtɪəriə dɪˌzaɪnə/",
+  "meaning": "A person who plans the design of the inside of buildings",
+  "example": "The interior designer chose colours for the lounge."
+ },
+ {
+  "no": 41,
+  "word": "Interpreter",
+  "category": "C",
+  "ipa": "/ɪnˈtɜːprɪtə/",
+  "meaning": "A person who translates speech from one language to another",
+  "example": "The interpreter translated the speech into French."
+ },
+ {
+  "no": 42,
+  "word": "Translator",
+  "category": "C",
+  "ipa": "/trænsˈleɪtə/",
+  "meaning": "A person who converts written text into another language",
+  "example": "The translator worked on the French edition of the book."
+ },
+ {
+  "no": 43,
+  "word": "Journalist",
+  "category": "C",
+  "ipa": "/ˈdʒɜːnəlɪst/",
+  "meaning": "A person who writes news reports",
+  "example": "The journalist interviewed the mayor yesterday."
+ },
+ {
+  "no": 44,
+  "word": "Lawyer",
+  "category": "C",
+  "ipa": "/ˈlɔɪə/",
+  "meaning": "A person qualified to advise people about the law",
+  "example": "The lawyer represented her client in court."
+ },
+ {
+  "no": 45,
+  "word": "Librarian",
+  "category": "C",
+  "ipa": "/laɪˈbreəriən/",
+  "meaning": "A person in charge of or who works in a library",
+  "example": "The librarian helped me find the right book."
+ },
+ {
+  "no": 46,
+  "word": "Magician",
+  "category": "C",
+  "ipa": "/məˈdʒɪʃən/",
+  "meaning": "A person who performs tricks that appear to be magic",
+  "example": "The magician pulled a rabbit from his hat."
+ },
+ {
+  "no": 47,
+  "word": "Makeup Artist",
+  "category": "C",
+  "ipa": "/ˈmeɪkʌp ˌɑːtɪst/",
+  "meaning": "A person who applies cosmetics professionally",
+  "example": "The makeup artist prepared the bride for her wedding."
+ },
+ {
+  "no": 48,
+  "word": "Mechanic",
+  "category": "C",
+  "ipa": "/mɪˈkænɪk/",
+  "meaning": "A person who repairs and maintains machines, especially vehicles",
+  "example": "The mechanic fixed the car's broken engine."
+ },
+ {
+  "no": 49,
+  "word": "Medical Assistant",
+  "category": "C",
+  "ipa": "/ˈmedɪkəl əˌsɪstənt/",
+  "meaning": "A person who supports doctors with administrative and clinical tasks",
+  "example": "The medical assistant took the patient's temperature."
+ },
+ {
+  "no": 50,
+  "word": "Receptionist",
+  "category": "C",
+  "ipa": "/rɪˈsepʃənɪst/",
+  "meaning": "A person who greets visitors and answers calls in an office",
+  "example": "The receptionist welcomed us at the front desk."
+ },
+ {
+  "no": 51,
+  "word": "Technologist",
+  "category": "C",
+  "ipa": "/tekˈnɒlədʒɪst/",
+  "meaning": "A specialist in a particular area of technology",
+  "example": "The technologist repaired the laboratory equipment."
+ },
+ {
+  "no": 52,
+  "word": "Merchandiser",
+  "category": "C",
+  "ipa": "/ˈmɜːtʃəndaɪzə/",
+  "meaning": "A person who plans how goods are displayed and sold",
+  "example": "The merchandiser arranged the new stock on the shelves."
+ },
+ {
+  "no": 53,
+  "word": "Musician",
+  "category": "C",
+  "ipa": "/mjuˈzɪʃən/",
+  "meaning": "A person who plays a musical instrument or composes music",
+  "example": "The musician played the piano beautifully."
+ },
+ {
+  "no": 54,
+  "word": "Nurse",
+  "category": "C",
+  "ipa": "/nɜːs/",
+  "meaning": "A person trained to care for the sick or injured",
+  "example": "The nurse checked the patient's blood pressure."
+ },
+ {
+  "no": 55,
+  "word": "Nutritionist",
+  "category": "C",
+  "ipa": "/njuːˈtrɪʃənɪst/",
+  "meaning": "A specialist in the study of food and nutrition",
+  "example": "The nutritionist planned a healthy diet for him."
+ },
+ {
+  "no": 56,
+  "word": "Occupational Therapist",
+  "category": "C",
+  "ipa": "/ˌɒkjʊˈpeɪʃənəl ˈθerəpɪst/",
+  "meaning": "A therapist who helps people recover everyday skills",
+  "example": "The occupational therapist helped him relearn to write."
+ },
+ {
+  "no": 57,
+  "word": "Optometrist",
+  "category": "C",
+  "ipa": "/ɒpˈtɒmɪtrɪst/",
+  "meaning": "A specialist who tests eyesight and prescribes glasses",
+  "example": "The optometrist tested my eyesight last week."
+ },
+ {
+  "no": 58,
+  "word": "Painter",
+  "category": "C",
+  "ipa": "/ˈpeɪntə/",
+  "meaning": "A person who paints pictures or surfaces",
+  "example": "The painter added colour to the old fence."
+ },
+ {
+  "no": 59,
+  "word": "Personal Assistant",
+  "category": "C",
+  "ipa": "/ˈpɜːsənəl əˌsɪstənt/",
+  "meaning": "A person who helps manage another's schedule and tasks",
+  "example": "The personal assistant organised the manager's diary."
+ },
+ {
+  "no": 60,
+  "word": "Pharmacist",
+  "category": "C",
+  "ipa": "/ˈfɑːməsɪst/",
+  "meaning": "A person qualified to prepare and sell medicines",
+  "example": "The pharmacist gave me the correct dosage."
+ },
+ {
+  "no": 61,
+  "word": "Photographer",
+  "category": "C",
+  "ipa": "/fəˈtɒɡrəfə/",
+  "meaning": "A person who takes photographs",
+  "example": "The photographer captured the sunset perfectly."
+ },
+ {
+  "no": 62,
+  "word": "Physician",
+  "category": "C",
+  "ipa": "/fɪˈzɪʃən/",
+  "meaning": "A qualified medical doctor",
+  "example": "The physician examined the patient thoroughly."
+ },
+ {
+  "no": 63,
+  "word": "Pilot",
+  "category": "C",
+  "ipa": "/ˈpaɪlət/",
+  "meaning": "A person who flies an aircraft",
+  "example": "The pilot landed the plane safely."
+ },
+ {
+  "no": 64,
+  "word": "Plumber",
+  "category": "C",
+  "ipa": "/ˈplʌmə/",
+  "meaning": "A person who fits and repairs water pipes",
+  "example": "The plumber repaired the leaking pipe."
+ },
+ {
+  "no": 65,
+  "word": "Political Scientist",
+  "category": "C",
+  "ipa": "/pəˌlɪtɪkəl ˈsaɪəntɪst/",
+  "meaning": "A specialist who studies government and politics",
+  "example": "The political scientist analysed the election results."
+ },
+ {
+  "no": 66,
+  "word": "Professor",
+  "category": "C",
+  "ipa": "/prəˈfesə/",
+  "meaning": "A senior university teacher",
+  "example": "The professor lectured on ancient history."
+ },
+ {
+  "no": 67,
+  "word": "Psychologist",
+  "category": "C",
+  "ipa": "/saɪˈkɒlədʒɪst/",
+  "meaning": "A specialist who studies the human mind and behaviour",
+  "example": "The psychologist helped him manage his anxiety."
+ },
+ {
+  "no": 68,
+  "word": "Real Estate Agent",
+  "category": "C",
+  "ipa": "/ˈrɪəl ɪˌsteɪt ˈeɪdʒənt/",
+  "meaning": "A person who arranges the sale or rental of property",
+  "example": "The real estate agent showed us the new flat."
+ },
+ {
+  "no": 69,
+  "word": "Researcher",
+  "category": "C",
+  "ipa": "/rɪˈsɜːtʃə/",
+  "meaning": "A person who studies a subject carefully to find new facts",
+  "example": "The researcher published her findings in a journal."
+ },
+ {
+  "no": 70,
+  "word": "Sales Representative",
+  "category": "C",
+  "ipa": "/ˈseɪlz ˌreprɪˈzentətɪv/",
+  "meaning": "A person who sells goods on behalf of a company",
+  "example": "The sales representative demonstrated the new product."
+ },
+ {
+  "no": 71,
+  "word": "Scientist",
+  "category": "C",
+  "ipa": "/ˈsaɪəntɪst/",
+  "meaning": "A person who studies or works in science",
+  "example": "The scientist recorded the results of the experiment."
+ },
+ {
+  "no": 72,
+  "word": "Secretary",
+  "category": "C",
+  "ipa": "/ˈsekrətri/",
+  "meaning": "A person who handles correspondence and records for an office",
+  "example": "The secretary typed the minutes of the meeting."
+ },
+ {
+  "no": 73,
+  "word": "Social Worker",
+  "category": "C",
+  "ipa": "/ˈsəʊʃəl ˌwɜːkə/",
+  "meaning": "A person who helps individuals and families in need",
+  "example": "The social worker visited the family every week."
+ },
+ {
+  "no": 74,
+  "word": "Software Developer",
+  "category": "C",
+  "ipa": "/ˈsɒftweə dɪˌveləpə/",
+  "meaning": "A person who designs and writes computer software",
+  "example": "The software developer tested the new application."
+ },
+ {
+  "no": 75,
+  "word": "Soldier",
+  "category": "C",
+  "ipa": "/ˈsəʊldʒə/",
+  "meaning": "A member of an army",
+  "example": "The soldier stood guard at the gate."
+ },
+ {
+  "no": 76,
+  "word": "Pathologist",
+  "category": "C",
+  "ipa": "/pəˈθɒlədʒɪst/",
+  "meaning": "A specialist who studies the causes of disease",
+  "example": "The pathologist examined the tissue sample."
+ },
+ {
+  "no": 77,
+  "word": "Sports Coach",
+  "category": "C",
+  "ipa": "/ˈspɔːts kəʊtʃ/",
+  "meaning": "A person who trains athletes or sports teams",
+  "example": "The sports coach trained the team every afternoon."
+ },
+ {
+  "no": 78,
+  "word": "Statistician",
+  "category": "C",
+  "ipa": "/ˌstætɪˈstɪʃən/",
+  "meaning": "A person who studies and interprets numerical data",
+  "example": "The statistician analysed the survey results."
+ },
+ {
+  "no": 79,
+  "word": "Surgeon",
+  "category": "C",
+  "ipa": "/ˈsɜːdʒən/",
+  "meaning": "A doctor who performs operations",
+  "example": "The surgeon performed the operation successfully."
+ },
+ {
+  "no": 80,
+  "word": "Tailor",
+  "category": "C",
+  "ipa": "/ˈteɪlə/",
+  "meaning": "A person who makes and alters clothes",
+  "example": "The tailor sewed a new suit for the wedding."
+ },
+ {
+  "no": 81,
+  "word": "Teacher",
+  "category": "C",
+  "ipa": "/ˈtiːtʃə/",
+  "meaning": "A person who helps pupils to learn",
+  "example": "The teacher explained the lesson clearly."
+ },
+ {
+  "no": 82,
+  "word": "Travel Agent",
+  "category": "C",
+  "ipa": "/ˈtrævəl ˌeɪdʒənt/",
+  "meaning": "A person who arranges holidays and travel bookings",
+  "example": "The travel agent booked our flights to Lagos."
+ },
+ {
+  "no": 83,
+  "word": "Veterinarian",
+  "category": "C",
+  "ipa": "/ˌvetərɪˈneəriən/",
+  "meaning": "A doctor who treats sick or injured animals",
+  "example": "The veterinarian treated the injured dog."
+ },
+ {
+  "no": 84,
+  "word": "Waiter",
+  "category": "C",
+  "ipa": "/ˈweɪtə/",
+  "meaning": "A man who serves food and drinks in a restaurant",
+  "example": "The waiter brought our order to the table."
+ },
+ {
+  "no": 85,
+  "word": "Web Developer",
+  "category": "C",
+  "ipa": "/ˈweb dɪˌveləpə/",
+  "meaning": "A person who builds and maintains websites",
+  "example": "The web developer fixed a bug on the homepage."
+ },
+ {
+  "no": 86,
+  "word": "Writer",
+  "category": "C",
+  "ipa": "/ˈraɪtə/",
+  "meaning": "A person who writes books, stories or articles",
+  "example": "The writer finished her third novel this year."
+ },
+ {
+  "no": 87,
+  "word": "Editor",
+  "category": "C",
+  "ipa": "/ˈedɪtə/",
+  "meaning": "A person who prepares written material for publication",
+  "example": "The editor corrected mistakes in the manuscript."
+ },
+ {
+  "no": 88,
+  "word": "Accountant General",
+  "ipa": "/əˌkaʊntənt ˈdʒenərəl/",
+  "meaning": "A senior official in charge of government accounts",
+  "example": "The Accountant General presented the annual budget.",
+  "category": "C"
+ },
+ {
+  "no": 89,
+  "word": "Air Hostess",
+  "ipa": "/ˈeə ˌhəʊstɪs/",
+  "meaning": "A woman who looks after passengers on an aircraft",
+  "example": "The air hostess offered us a drink on the flight.",
+  "category": "C"
+ },
+ {
+  "no": 90,
+  "word": "Ambassador",
+  "ipa": "/æmˈbæsədə/",
+  "meaning": "A senior diplomat who represents their country abroad",
+  "example": "The ambassador met the president in London.",
+  "category": "C"
+ },
+ {
+  "no": 91,
+  "word": "Anaesthetist",
+  "ipa": "/əˈniːsθətɪst/",
+  "meaning": "A doctor who gives patients medicine to prevent pain during surgery",
+  "example": "The anaesthetist prepared him for the operation.",
+  "category": "C"
+ },
+ {
+  "no": 92,
+  "word": "Archaeologist",
+  "ipa": "/ˌɑːkiˈɒlədʒɪst/",
+  "meaning": "A scientist who studies human history through excavation",
+  "example": "The archaeologist discovered ancient pottery.",
+  "category": "C"
+ },
+ {
+  "no": 93,
+  "word": "Astronaut",
+  "ipa": "/ˈæstrənɔːt/",
+  "meaning": "A person trained to travel and work in space",
+  "example": "The astronaut floated outside the space station.",
+  "category": "C"
+ },
+ {
+  "no": 94,
+  "word": "Astronomer",
+  "ipa": "/əˈstrɒnəmə/",
+  "meaning": "A scientist who studies stars, planets and space",
+  "example": "The astronomer observed the comet through a telescope.",
+  "category": "C"
+ },
+ {
+  "no": 95,
+  "word": "Auctioneer",
+  "ipa": "/ˌɔːkʃəˈnɪə/",
+  "meaning": "A person who conducts sales by auction",
+  "example": "The auctioneer sold the painting for a high price.",
+  "category": "C"
+ },
+ {
+  "no": 96,
+  "word": "Bank Manager",
+  "ipa": "/ˈbæŋk ˌmænɪdʒə/",
+  "meaning": "A person in charge of a bank branch",
+  "example": "The bank manager approved the small business loan.",
+  "category": "C"
+ },
+ {
+  "no": 97,
+  "word": "Beautician",
+  "ipa": "/bjuːˈtɪʃən/",
+  "meaning": "A person who gives beauty treatments",
+  "example": "The beautician gave her a relaxing facial.",
+  "category": "C"
+ },
+ {
+  "no": 98,
+  "word": "Biologist",
+  "ipa": "/baɪˈɒlədʒɪst/",
+  "meaning": "A scientist who studies living organisms",
+  "example": "The biologist studied insects in the rainforest.",
+  "category": "C"
+ },
+ {
+  "no": 99,
+  "word": "Bricklayer",
+  "ipa": "/ˈbrɪkleɪə/",
+  "meaning": "A person who builds walls with bricks",
+  "example": "The bricklayer built a wall around the garden.",
+  "category": "C"
+ },
+ {
+  "no": 100,
+  "word": "Broadcaster",
+  "ipa": "/ˈbrɔːdkɑːstə/",
+  "meaning": "A person who presents programmes on radio or television",
+  "example": "The broadcaster read the evening news.",
+  "category": "C"
+ },
+ {
+  "no": 101,
+  "word": "Choreographer",
+  "ipa": "/ˌkɒriˈɒɡrəfə/",
+  "meaning": "A person who designs dance movements",
+  "example": "The choreographer taught the dancers a new routine.",
+  "category": "C"
+ },
+ {
+  "no": 102,
+  "word": "Curator",
+  "ipa": "/kjʊˈreɪtə/",
+  "meaning": "A person who manages a museum or gallery collection",
+  "example": "The curator arranged the new art exhibition.",
+  "category": "C"
+ },
+ {
+  "no": 103,
+  "word": "Diplomat",
+  "ipa": "/ˈdɪpləmæt/",
+  "meaning": "An official who represents a country in relations with others",
+  "example": "The diplomat negotiated a peace agreement.",
+  "category": "C"
+ },
+ {
+  "no": 104,
+  "word": "Ecologist",
+  "ipa": "/ɪˈkɒlədʒɪst/",
+  "meaning": "A scientist who studies the relationships between living things and their environment",
+  "example": "The ecologist measured pollution levels in the river.",
+  "category": "C"
+ },
+ {
+  "no": 105,
+  "word": "Economist",
+  "ipa": "/ɪˈkɒnəmɪst/",
+  "meaning": "A specialist who studies the production and use of wealth",
+  "example": "The economist predicted a rise in prices.",
+  "category": "C"
+ },
+ {
+  "no": 106,
+  "word": "Entrepreneur",
+  "ipa": "/ˌɒntrəprəˈnɜː/",
+  "meaning": "A person who sets up and runs a business, taking on financial risk",
+  "example": "The entrepreneur launched a new clothing brand.",
+  "category": "C"
+ },
+ {
+  "no": 107,
+  "word": "Estate Agent",
+  "ipa": "/ɪˈsteɪt ˌeɪdʒənt/",
+  "meaning": "A person who arranges the sale or rental of buildings",
+  "example": "The estate agent showed them three houses.",
+  "category": "C"
+ },
+ {
+  "no": 108,
+  "word": "Forensic Scientist",
+  "ipa": "/fəˈrensɪk ˈsaɪəntɪst/",
+  "meaning": "A scientist who examines evidence for police investigations",
+  "example": "The forensic scientist tested the sample for fingerprints.",
+  "category": "C"
+ },
+ {
+  "no": 109,
+  "word": "Geologist",
+  "ipa": "/dʒiˈɒlədʒɪst/",
+  "meaning": "A scientist who studies rocks and the structure of the earth",
+  "example": "The geologist collected rock samples from the cliff.",
+  "category": "C"
+ },
+ {
+  "no": 110,
+  "word": "Historian",
+  "ipa": "/hɪˈstɔːriən/",
+  "meaning": "A person who studies and writes about the past",
+  "example": "The historian wrote a book about ancient Egypt.",
+  "category": "C"
+ },
+ {
+  "no": 111,
+  "word": "Illustrator",
+  "ipa": "/ˈɪləstreɪtə/",
+  "meaning": "An artist who creates pictures for books or magazines",
+  "example": "The illustrator drew pictures for the children's book.",
+  "category": "C"
+ },
+ {
+  "no": 112,
+  "word": "Jeweller",
+  "ipa": "/ˈdʒuːələ/",
+  "meaning": "A person who makes or sells jewellery",
+  "example": "The jeweller repaired the broken necklace clasp.",
+  "category": "C"
+ },
+ {
+  "no": 113,
+  "word": "Judge",
+  "ipa": "/dʒʌdʒ/",
+  "meaning": "An official who presides over a court of law",
+  "example": "The judge announced the court's decision.",
+  "category": "C"
+ },
+ {
+  "no": 114,
+  "word": "Linguist",
+  "ipa": "/ˈlɪŋɡwɪst/",
+  "meaning": "A person who studies languages or speaks several fluently",
+  "example": "The linguist could speak five languages.",
+  "category": "C"
+ },
+ {
+  "no": 115,
+  "word": "Locksmith",
+  "ipa": "/ˈlɒksmɪθ/",
+  "meaning": "A person who makes and repairs locks",
+  "example": "The locksmith fitted a new lock on the door.",
+  "category": "C"
+ },
+ {
+  "no": 116,
+  "word": "Meteorologist",
+  "ipa": "/ˌmiːtiəˈrɒlədʒɪst/",
+  "meaning": "A scientist who studies weather and climate",
+  "example": "The meteorologist forecast heavy rain for the weekend.",
+  "category": "C"
+ },
+ {
+  "no": 117,
+  "word": "Midwife",
+  "ipa": "/ˈmɪdwaɪf/",
+  "meaning": "A person trained to assist women in childbirth",
+  "example": "The midwife helped deliver the healthy baby.",
+  "category": "C"
+ },
+ {
+  "no": 118,
+  "word": "Missionary",
+  "ipa": "/ˈmɪʃənri/",
+  "meaning": "A person sent to do religious or charitable work abroad",
+  "example": "The missionary built a school in the village.",
+  "category": "C"
+ },
+ {
+  "no": 119,
+  "word": "Orthodontist",
+  "ipa": "/ˌɔːθəˈdɒntɪst/",
+  "meaning": "A dentist who specialises in correcting teeth position",
+  "example": "The orthodontist fitted her with a brace.",
+  "category": "C"
+ },
+ {
+  "no": 120,
+  "word": "Paediatrician",
+  "ipa": "/ˌpiːdiəˈtrɪʃən/",
+  "meaning": "A doctor who specialises in treating children",
+  "example": "The paediatrician examined the newborn baby.",
+  "category": "C"
+ },
+ {
+  "no": 121,
+  "word": "Paramedic",
+  "ipa": "/ˌpærəˈmedɪk/",
+  "meaning": "A person trained to give emergency medical treatment",
+  "example": "The paramedic treated the injured driver at the scene.",
+  "category": "C"
+ },
+ {
+  "no": 122,
+  "word": "Physiotherapist",
+  "ipa": "/ˌfɪziəʊˈθerəpɪst/",
+  "meaning": "A therapist who treats injury and disease using physical exercise",
+  "example": "The physiotherapist helped him strengthen his knee.",
+  "category": "C"
+ },
+ {
+  "no": 123,
+  "word": "Playwright",
+  "ipa": "/ˈpleɪraɪt/",
+  "meaning": "A person who writes plays",
+  "example": "The playwright's new drama opened in the West End.",
+  "category": "C"
+ },
+ {
+  "no": 124,
+  "word": "Poet",
+  "ipa": "/ˈpəʊɪt/",
+  "meaning": "A person who writes poems",
+  "example": "The poet read her verses aloud to the class.",
+  "category": "C"
+ },
+ {
+  "no": 125,
+  "word": "Politician",
+  "ipa": "/ˌpɒlɪˈtɪʃən/",
+  "meaning": "A person actively engaged in politics or government",
+  "example": "The politician campaigned across the country.",
+  "category": "C"
+ },
+ {
+  "no": 126,
+  "word": "Postman",
+  "ipa": "/ˈpəʊstmən/",
+  "meaning": "A person who delivers letters and parcels",
+  "example": "The postman delivered a parcel this morning.",
+  "category": "C"
+ },
+ {
+  "no": 127,
+  "word": "Potter",
+  "ipa": "/ˈpɒtə/",
+  "meaning": "A person who makes pottery",
+  "example": "The potter shaped the clay on the wheel.",
+  "category": "C"
+ },
+ {
+  "no": 128,
+  "word": "Priest",
+  "ipa": "/priːst/",
+  "meaning": "A person authorised to perform religious duties",
+  "example": "The priest led the Sunday service.",
+  "category": "C"
+ },
+ {
+  "no": 129,
+  "word": "Printer",
+  "ipa": "/ˈprɪntə/",
+  "meaning": "A person whose job is to print books, newspapers or documents",
+  "example": "The printer produced a thousand copies overnight.",
+  "category": "C"
+ },
+ {
+  "no": 130,
+  "word": "Radiographer",
+  "ipa": "/ˌreɪdiˈɒɡrəfə/",
+  "meaning": "A person trained to take X-rays for medical diagnosis",
+  "example": "The radiographer took an X-ray of his arm.",
+  "category": "C"
+ },
+ {
+  "no": 131,
+  "word": "Referee",
+  "ipa": "/ˌrefəˈriː/",
+  "meaning": "A person who enforces the rules in a sports match",
+  "example": "The referee blew the whistle for full time.",
+  "category": "C"
+ },
+ {
+  "no": 132,
+  "word": "Sculptor",
+  "ipa": "/ˈskʌlptə/",
+  "meaning": "An artist who creates three-dimensional works of art",
+  "example": "The sculptor carved a statue from marble.",
+  "category": "C"
+ },
+ {
+  "no": 133,
+  "word": "Seamstress",
+  "ipa": "/ˈsiːmstrəs/",
+  "meaning": "A woman who sews clothes for a living",
+  "example": "The seamstress hemmed the skirt neatly.",
+  "category": "C"
+ },
+ {
+  "no": 134,
+  "word": "Shepherd",
+  "ipa": "/ˈʃepəd/",
+  "meaning": "A person who looks after sheep",
+  "example": "The shepherd guided his flock across the hill.",
+  "category": "C"
+ },
+ {
+  "no": 135,
+  "word": "Surveyor",
+  "ipa": "/səˈveɪə/",
+  "meaning": "A person who examines and measures land or buildings",
+  "example": "The surveyor measured the boundaries of the plot.",
+  "category": "C"
+ },
+ {
+  "no": 136,
+  "word": "Taxidermist",
+  "ipa": "/ˈtæksɪdɜːmɪst/",
+  "meaning": "A person who preserves and mounts animal skins",
+  "example": "The taxidermist prepared the museum's new display.",
+  "category": "C"
+ },
+ {
+  "no": 137,
+  "word": "Technician",
+  "ipa": "/tekˈnɪʃən/",
+  "meaning": "A person skilled in the practical use of machinery or techniques",
+  "example": "The technician repaired the broken projector.",
+  "category": "C"
+ },
+ {
+  "no": 138,
+  "word": "Undertaker",
+  "ipa": "/ˈʌndəteɪkə/",
+  "meaning": "A person who organises funerals",
+  "example": "The undertaker arranged the funeral service.",
+  "category": "C"
+ },
+ {
+  "no": 139,
+  "word": "Upholsterer",
+  "ipa": "/ʌpˈhəʊlstərə/",
+  "meaning": "A person who fits fabric and padding to furniture",
+  "example": "The upholsterer recovered the old sofa.",
+  "category": "C"
+ },
+ {
+  "no": 140,
+  "word": "Zoologist",
+  "ipa": "/zuːˈɒlədʒɪst/",
+  "meaning": "A scientist who studies animals",
+  "example": "The zoologist studied the behaviour of lions.",
+  "category": "C"
+ }
+]

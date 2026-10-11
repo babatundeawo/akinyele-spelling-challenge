@@ -1,0 +1,338 @@
+[
+  {
+    "no": 1,
+    "name": "Olatunji Treasure",
+    "school": "Ivory Schools, Akingbile",
+    "class": "Pry 5",
+    "aspiration": "I want to be a Lawyer"
+  },
+  {
+    "no": 2,
+    "name": "Morris Shepherd Ademiposi",
+    "school": "Ivory Schools, Akingbile",
+    "class": "Pry 5",
+    "aspiration": "I want to be a Engineer"
+  },
+  {
+    "no": 4,
+    "name": "Oyekola Daniel",
+    "school": "IDC Primary School, Alabata",
+    "class": "Pry 6",
+    "aspiration": "I want to be a Medical Doctor"
+  },
+  {
+    "no": 5,
+    "name": "Abdulsalam Balikis Ajoke",
+    "school": "IDC Primary School, Alabata",
+    "class": "Pry 6",
+    "aspiration": "I want to be a Lawyer"
+  },
+  {
+    "no": 7,
+    "name": "Oyewole Inioluwa",
+    "school": "Heroic Innovators Schools, Tose",
+    "class": "Pry 4",
+    "aspiration": "I want to be a Accountant"
+  },
+  {
+    "no": 8,
+    "name": "Omolaja Rejoice",
+    "school": "Heroic Innovators Schools, Tose",
+    "class": "Pry 4",
+    "aspiration": "I want to be a Medical Doctor"
+  },
+  {
+    "no": 9,
+    "name": "Oyelami Khalid",
+    "school": "Heroic Innovators Schools, Tose",
+    "class": "Pry 4",
+    "aspiration": "I want to be a Medical Doctor"
+  },
+  {
+    "no": 10,
+    "name": "Ayilara Aliami",
+    "school": "Heroic Innovators Schools, Tose",
+    "class": "Pry 4",
+    "aspiration": "I want to be a Engineer"
+  },
+  {
+    "no": 11,
+    "name": "Daud Mutmiana",
+    "school": "Heroic Innovators Schools, Tose",
+    "class": "Pry 4",
+    "aspiration": "I want to be a Engineer"
+  },
+  {
+    "no": 12,
+    "name": "Oyewole Oluwaseyi",
+    "school": "Heroic Innovators Schools, Tose",
+    "class": "Pry 4",
+    "aspiration": "I want to be a Medical Doctor"
+  },
+  {
+    "no": 13,
+    "name": "Akintola Toluwani",
+    "school": "UBEC/SUBEB Model Smart School, Aba-Odo",
+    "class": "Pry 1",
+    "aspiration": "I want to be a Lawyer"
+  },
+  {
+    "no": 14,
+    "name": "Sodiq Sarat",
+    "school": "Afoy Academy, Igbo-Oloyin",
+    "class": "Pry 5",
+    "aspiration": "I want to be a Lawyer"
+  },
+  {
+    "no": 16,
+    "name": "Oduola Ololade",
+    "school": "Great Excellent Nur/Pry School, Moniya",
+    "class": "Pry 4",
+    "aspiration": "I want to be a Actor"
+  },
+  {
+    "no": 17,
+    "name": "Okunlola Darasimi Tabitha",
+    "school": "Great Excellent Nur/Pry School, Moniya",
+    "class": "Pry 4",
+    "aspiration": "I want to be a Doctor"
+  },
+  {
+    "no": 18,
+    "name": "Agunbiade Christiana Oluwakemi",
+    "school": "Great Excellent Nur/Pry School, Moniya",
+    "class": "Pry 4",
+    "aspiration": "I want to be a Nurse"
+  },
+  {
+    "no": 19,
+    "name": "Abdulsalam Afeez Oluwaseun",
+    "school": "Great Excellent Nur/Pry School, Moniya",
+    "class": "Pry 5",
+    "aspiration": "I want to be a Navy"
+  },
+  {
+    "no": 20,
+    "name": "Alade Sarah",
+    "school": "Treasure Glorious School, Moniya",
+    "class": "Pry 5",
+    "aspiration": "I want to be a Nurse"
+  },
+  {
+    "no": 21,
+    "name": "Adetola Favour Ruth",
+    "school": "Solace Model School, Aba-Odo",
+    "class": "Pry 5",
+    "aspiration": "I want to be a Doctor"
+  },
+  {
+    "no": 22,
+    "name": "Isiaka Fawas",
+    "school": "Solace Model School, Aba-Odo",
+    "class": "Pry 4",
+    "aspiration": "I want to be a Engineer"
+  },
+  {
+    "no": 23,
+    "name": "Adedeji Oluwasemilore",
+    "school": "Amao Nursery & Primary School, Akingbile",
+    "class": "Pry 5",
+    "aspiration": "I want to be a Lawyer"
+  },
+  {
+    "no": 24,
+    "name": "Momodu Raymond",
+    "school": "Amao Nursery & Primary School, Akingbile",
+    "class": "Pry 5",
+    "aspiration": "I want to be a Doctor"
+  },
+  {
+    "no": 25,
+    "name": "Komolafe Ireoluwa",
+    "school": "Auntie Tola Nur/Pry School, Moniya",
+    "class": "Pry 2",
+    "aspiration": "I want to be a Scientist"
+  },
+  {
+    "no": 26,
+    "name": "Abdulwasiu Quadri",
+    "school": "Auntie Tola Nur/Pry School, Moniya",
+    "class": "Pry 3",
+    "aspiration": "I want to be a Lawyer"
+  },
+  {
+    "no": 26,
+    "name": "Muyideen Misturah",
+    "school": "Auntie Tola Nur/Pry School, Moniya",
+    "class": "—",
+    "aspiration": "I want to be a Nurse"
+  },
+  {
+    "no": 27,
+    "name": "Irinoye Ifeoluwa",
+    "school": "Auntie Tola Nur/Pry School, Moniya",
+    "class": "—",
+    "aspiration": ""
+  },
+  {
+    "no": 28,
+    "name": "Willike Naomi",
+    "school": "Auntie Tola Nur/Pry School, Moniya",
+    "class": "Pry 4",
+    "aspiration": "I want to be a Nurse"
+  },
+  {
+    "no": 29,
+    "name": "Adetide Godwin",
+    "school": "Auntie Tola Nur/Pry School, Moniya",
+    "class": "—",
+    "aspiration": "I want to be a Engineer"
+  },
+  {
+    "no": 30,
+    "name": "Vincent Peace Akuoma",
+    "school": "D-Eminent City Lights Int'l Schools, Akingbile",
+    "class": "Pry 5",
+    "aspiration": "I want to be a Nurse"
+  },
+  {
+    "no": 31,
+    "name": "Elehin Oluwatobiloba",
+    "school": "D-Eminent City Lights Int'l Schools, Akingbile",
+    "class": "Pry 2",
+    "aspiration": "I want to be a Engineer"
+  },
+  {
+    "no": 32,
+    "name": "Olateju Samuel",
+    "school": "Ambassador International Nur/Pry School, Ajibade",
+    "class": "Pry 5",
+    "aspiration": "I want to be a Doctor"
+  },
+  {
+    "no": 33,
+    "name": "Adewale Victoria",
+    "school": "Ambassador International Nur/Pry School, Ajibade",
+    "class": "Pry 5",
+    "aspiration": "I want to be a Lawyer"
+  },
+  {
+    "no": 34,
+    "name": "Olaniran Gad Ayo",
+    "school": "God's Time Group of Schools, Ajibade",
+    "class": "Pry 4",
+    "aspiration": "I want to be a Soldier"
+  },
+  {
+    "no": 35,
+    "name": "Adebayo Grace Anjola",
+    "school": "God's Time Group of Schools, Ajibade",
+    "class": "Pry 4",
+    "aspiration": "I want to be a Musician"
+  },
+  {
+    "no": 36,
+    "name": "Taofeeq Olayemi Kabir",
+    "school": "Great Exploit Yahweh School, Akinrin",
+    "class": "Pry 4",
+    "aspiration": "I want to be a Engineer"
+  },
+  {
+    "no": 37,
+    "name": "Olanipekun Faheemat",
+    "school": "Great Exploit Yahweh School, Akinrin",
+    "class": "Pry 1",
+    "aspiration": "I want to be a Nurse"
+  },
+  {
+    "no": 38,
+    "name": "Ejiro Bethel Orezi-oghene",
+    "school": "Eduville School, Sagbe",
+    "class": "Pry 3",
+    "aspiration": "I want to be a Doctor"
+  },
+  {
+    "no": 39,
+    "name": "Ejiro Pharez Okezi-oghene",
+    "school": "Eduville School, Sagbe",
+    "class": "Pry 2",
+    "aspiration": "I want to be a Engineer"
+  },
+  {
+    "no": 40,
+    "name": "Emmanuel Anuoluwa",
+    "school": "D'Beulah Kids Kastle (DBKK), Akingbile",
+    "class": "Pry 5",
+    "aspiration": "I want to be a Engineer"
+  },
+  {
+    "no": 41,
+    "name": "Oyetunji Naomi Oluwafikayomi",
+    "school": "Divine Heritage Model School, Akingbile",
+    "class": "Pry 5",
+    "aspiration": "I want to be a Nurse"
+  },
+  {
+    "no": 42,
+    "name": "Adebusuyi Iretorunwa Manna",
+    "school": "Divine Heritage Model School, Akingbile",
+    "class": "Pry 2",
+    "aspiration": "I want to be a Medical Doctor"
+  },
+  {
+    "no": 43,
+    "name": "Farinde Great Sunday",
+    "school": "Divine Heritage Model School, Akingbile",
+    "class": "Pry 2",
+    "aspiration": "I want to be a Medical Doctor"
+  },
+  {
+    "no": 44,
+    "name": "Olayemi Stephen Morianugba",
+    "school": "Divine Heritage Model School, Akingbile",
+    "class": "Pry 4",
+    "aspiration": "I want to be a Medical Doctor"
+  },
+  {
+    "no": 45,
+    "name": "Ayodele John Adedamola",
+    "school": "Divine Heritage Model School, Akingbile",
+    "class": "Pry 4",
+    "aspiration": "I want to be a Teacher"
+  },
+  {
+    "no": 46,
+    "name": "David Jesutofunmi Dara",
+    "school": "Knowledge Base International Schools, Apapa",
+    "class": "Pry 4",
+    "aspiration": "I want to be a Doctor"
+  },
+  {
+    "no": 47,
+    "name": "Oluniyi Leonard David",
+    "school": "Knowledge Base International Schools, Apapa",
+    "class": "Pry 3",
+    "aspiration": "I want to be a Pilot"
+  },
+  {
+    "no": 48,
+    "name": "Emmanuel Elizabeth",
+    "school": "God With Us School, Alabata",
+    "class": "Pry 5",
+    "aspiration": "I want to be a Doctor"
+  },
+  {
+    "no": 49,
+    "name": "Ayobami Success",
+    "school": "God With Us School, Alabata",
+    "class": "Pry 5",
+    "aspiration": "I want to be a Pilot"
+  },
+  {
+    "no": 50,
+    "name": "Abdulrahaman Khalid Kolawole",
+    "school": "Gracefield Private School, Bodija",
+    "class": "Pry 2",
+    "aspiration": "I want to be a Doctor"
+  }
+]
