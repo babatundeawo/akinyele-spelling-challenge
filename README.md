@@ -29,6 +29,8 @@ The Akinyele Spelling Challenge is a grassroots spelling competition for primary
 - A practice trainer and a 10-round Spelling Bee game against a simulated rival, with optional spoken words
 - A searchable register of the 48 contestants and 20 participating schools
 - Photo gallery with a keyboard-friendly viewer, and press coverage
+- Installs like an app on Android, iPhone and desktop, and the pages you have opened keep working offline
+- Practice progress (best streak, best Spelling Bee score per level) is saved on your device only
 - Light and dark themes that follow your device setting
 - Works on phones from 320 px wide, with the core content readable without JavaScript
 
@@ -46,19 +48,19 @@ Open the [live site](https://babatundeawo.github.io/akinyele-spelling-challenge/
 
 ## Tech stack
 
-HTML, CSS (custom properties design system) and vanilla JavaScript (ES modules). A small dependency-free Node script assembles the pages. GitHub Actions builds and deploys to GitHub Pages.
+HTML, CSS (custom properties design system) and vanilla JavaScript (ES modules), with a hand-written service worker for offline use. A small dependency-free Node script assembles the pages and the service worker. GitHub Actions builds and deploys to GitHub Pages.
 
 ## Project structure
 
 ```
 .
-├── *.html          Page sources (11 pages, including the 404 page)
+├── *.html          Page sources (12 pages, including the 404 and offline pages)
 ├── partials/       Shared page frame: head, header, footer, icons, manifest
 ├── css/            The stylesheet and its design tokens
 ├── js/             Site behaviour and one module per interactive page
 ├── data/           Word bank, contestants, schools and gallery captions (JSON)
 ├── assets/         Fonts, icons, images and the social preview image
-├── build/          Build and quality-check scripts
+├── build/          Build, service worker template and quality-check scripts
 ├── docs/           Deployment and customisation guides
 └── .github/        Workflows, Dependabot, issue and pull request templates
 ```

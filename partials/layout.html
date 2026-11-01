@@ -9,7 +9,9 @@
 {{content}}
 </main>
 {{footer}}
+<button type="button" class="to-top" id="toTop" aria-label="Back to top" hidden><svg class="i" aria-hidden="true"><use href="#i-up"/></svg></button>
 <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+<div class="update-bar" id="updateBar" role="alert" hidden><span>A new version of the site is ready.</span><button type="button" class="btn btn-primary" id="updateBtn">Refresh</button></div>
 <script type="module" src="js/app.js?v={{jsV}}"></script>
 </body>
 </html>

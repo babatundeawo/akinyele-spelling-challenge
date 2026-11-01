@@ -68,3 +68,13 @@ GitHub Pages cannot show a private preview of a pull request, so the live site c
 
 1. **Settings > Code security** (or **Advanced Security**).
 2. Switch on **Secret scanning** and **Private vulnerability reporting**.
+
+## Install the site as an app and test offline use
+
+On Android (Chrome): open the live site, wait a few seconds, then tap **Install the app** at the bottom of the page, or the browser menu (three dots) and **Install app**. Tap **Install**. The icon appears on your Home Screen.
+
+On iPhone or iPad (Safari only): open the live site in Safari, tap the **Share** button, scroll down, tap **Add to Home Screen**, then **Add**. The footer button **Install the app** shows the same steps.
+
+To test offline use: open a few pages while connected, switch on airplane mode, then open the app again. Pages you have visited, the spelling trainer and the word bank still work. A page you never opened shows the "You are offline" page.
+
+When you publish a change, visitors who already have the app see a bar saying **A new version of the site is ready** with a **Refresh** button. Nobody is stuck on an old version.

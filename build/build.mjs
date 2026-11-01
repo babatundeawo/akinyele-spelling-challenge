@@ -73,7 +73,7 @@ const themeInit = read('partials/theme-init.js').trim();
 const csp = [
   "default-src 'self'", "script-src 'self' 'sha256-" + createHash('sha256').update(themeInit).digest('base64') + "'",
   "style-src 'self'", "img-src 'self' data:", "font-src 'self'", "connect-src 'self'",
-  "object-src 'none'", "base-uri 'self'", "form-action 'self'",
+  "object-src 'none'", "base-uri 'self'", "form-action 'self'", "worker-src 'self'", "manifest-src 'self'",
 ].join('; ');
 const cssV = hash(read('css/style.css'));
 const jsV = hash(readdirSync(join(ROOT, 'js')).filter((f) => f.endsWith('.js')).map((f) => read(`js/${f}`)).join('') +
@@ -92,7 +92,7 @@ for (const file of pages) {
   const jsonld = meta.jsonld ? `<script type="application/ld+json">${read(`partials/${meta.jsonld}.json`).replace(/\{\{site\}\}/g, SITE).replace(/\s*\n\s*/g, ' ')}</script>` : '';
   const head = fill(partial('head'), {
     title: esc(meta.title), description: esc(meta.description), canonical, ogImage, csp, themeInit, cssV, jsonld,
-    base: is404 ? `<base href="${SITE}">` : '', robots: is404 ? '<meta name="robots" content="noindex">' : '', site: SITE, siteName: SITE_NAME,
+    base: is404 ? `<base href="${SITE}">` : '', robots: is404 || file === 'offline.html' ? '<meta name="robots" content="noindex">' : '', site: SITE, siteName: SITE_NAME,
     ogType: file === 'index.html' ? 'website' : 'article',
   });
   const header = partial('sprite') + fill(partial('header'), { nav: navHtml });
@@ -100,7 +100,7 @@ for (const file of pages) {
   let content = body.replace(/<!--@(\w+)-->/g, (_, k) => (fragments[k] ? fragments[k]() : (problems.push(`${file}: unknown fragment ${k}`), '')));
   const html = fill(partial('layout'), { head, header, footer, content, page: meta.page || 'default', jsV });
   writeFileSync(join(DIST, file), html);
-  if (!is404) sitemap.push(file === 'index.html' ? '' : file);
+  if (!is404 && file !== 'offline.html') sitemap.push(file === 'index.html' ? '' : file);
 }
 
 /* ---------- static files ---------- */
@@ -131,6 +131,16 @@ const today = new Date().toISOString().slice(0, 10);
 writeFileSync(join(DIST, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
   sitemap.map((p) => `  <url><loc>${SITE}${p}</loc><lastmod>${today}</lastmod></url>`).join('\n') + `\n</urlset>\n`);
 writeFileSync(join(DIST, '.nojekyll'), '');
+
+/* ---------- service worker: precache list and version come from the built files ---------- */
+const built = [];
+(function walk(dir) { for (const f of readdirSync(dir)) { const p = join(dir, f); statSync(p).isDirectory() ? walk(p) : built.push(p); } })(DIST);
+const rel = (p) => p.slice(DIST.length + 1).split('\\').join('/');
+const precache = built.map(rel)
+  .filter((p) => !/^(sw\.js|robots\.txt|sitemap\.xml|\.nojekyll|404\.html)$/.test(p) && !p.startsWith('assets/screenshots/') && !/^assets\/img\/gallery-/.test(p))
+  .sort();
+const swVersion = createHash('sha256').update(precache.map((p) => p + readFileSync(join(DIST, p)).length + hash(readFileSync(join(DIST, p)).toString('latin1'))).join('|')).digest('hex').slice(0, 10);
+writeFileSync(join(DIST, 'sw.js'), read('build/sw.template.js').replace('__VERSION__', swVersion).replace('__PRECACHE__', JSON.stringify(precache)));
 
 /* ---------- link check (internal only) ---------- */
 for (const file of pages) {

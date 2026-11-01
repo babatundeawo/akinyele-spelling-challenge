@@ -360,6 +360,35 @@ dialog.lightbox::backdrop{background:rgba(4,10,8,.8)}
 .not-found{min-height:60vh;display:grid;place-items:center;text-align:center}
 .not-found .code{font:600 clamp(6rem,22vw,13rem)/.9 var(--f-display);letter-spacing:-.05em;color:var(--accent)}
 
+/* 6b. APP FEATURES: install bar, update bar, guide, back-to-top, letter tiles ---- */
+.install-bar,.update-bar{position:fixed;left:50%;bottom:calc(var(--s-5) + env(safe-area-inset-bottom));transform:translateX(-50%);z-index:var(--z-toast);display:flex;align-items:center;gap:var(--s-3);flex-wrap:wrap;justify-content:center;width:min(94vw,40rem);padding:var(--s-3) var(--s-4);border-radius:var(--r-lg);background:var(--board);color:var(--chalk);box-shadow:var(--shadow-2);border:1px solid rgba(245,243,234,.16)}
+.install-bar[hidden],.update-bar[hidden]{display:none}
+.install-bar span,.update-bar span{flex:1 1 14rem;font-size:.92rem}
+.install-bar .btn,.update-bar .btn{min-height:44px;padding:.55rem 1.2rem}
+.install-bar .btn-ghost{color:var(--chalk);border-color:rgba(245,243,234,.3)}
+.update-bar{bottom:calc(var(--s-9) + env(safe-area-inset-bottom))}
+.footer-actions{margin-top:var(--s-4)}
+.footer-actions .btn{color:var(--chalk);border-color:rgba(245,243,234,.3)}
+.footer-actions [hidden]{display:none}
+.to-top{position:fixed;right:max(var(--s-4),env(safe-area-inset-right));bottom:calc(var(--s-4) + env(safe-area-inset-bottom));z-index:var(--z-nav);width:48px;height:48px;border-radius:var(--r-pill);border:1px solid var(--line);background:var(--board);color:var(--chalk);display:grid;place-items:center;cursor:pointer;box-shadow:var(--shadow-1);transition:transform var(--t-med) var(--ease)}
+.to-top[hidden]{display:none}
+.to-top:hover{transform:translateY(-3px)}
+dialog.guide{max-width:min(92vw,28rem);border:1px solid var(--line);border-radius:var(--r-lg);background:var(--paper);color:var(--text);padding:var(--s-6);box-shadow:var(--shadow-2)}
+dialog.guide::backdrop{background:rgba(6,16,12,.65)}
+dialog.guide h2{font-size:var(--step-2)}
+dialog.guide ol{padding-left:1.2rem;margin:0 0 var(--s-4)}
+dialog.guide li{margin-bottom:var(--s-2)}
+dialog.guide .i{display:inline-block;vertical-align:-.2em}
+.guide-note{color:var(--muted);font-size:var(--step--1)}
+/* signature: letter tiles that flip over to spell the event's word */
+.tiles{list-style:none;display:flex;gap:.45rem;padding:0;margin:var(--s-6) 0 calc(var(--s-6) + 8px);perspective:600px}
+.tile{width:clamp(2.6rem,9vw,3.4rem);aspect-ratio:1;display:grid;place-items:center;border-radius:10px;background:linear-gradient(160deg,#F6E3B4,#E0A030);color:#2A1C05;font:700 clamp(1.3rem,5vw,1.8rem)/1 var(--f-display);box-shadow:0 6px 0 #9A6A12,0 14px 24px -10px rgba(0,0,0,.6);position:relative}
+.tile small{position:absolute;right:.3rem;bottom:.15rem;font:600 .55rem/1 var(--f-body);opacity:.7}
+.js .tile{animation:tile-in .7s var(--ease) both;animation-delay:.35s}
+.tile:nth-child(2){animation-delay:.46s}.tile:nth-child(3){animation-delay:.57s}.tile:nth-child(4){animation-delay:.68s}.tile:nth-child(5){animation-delay:.79s}
+@keyframes tile-in{from{opacity:0;transform:rotateX(-90deg) translateY(12px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.js .tile{animation:none}}
+
 /* 7. UTILITIES, PRINT, MOTION PREFERENCES ---------------------------------- */
 .vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .mt-5{margin-top:var(--s-5)}.mt-6{margin-top:var(--s-6)}.mb-0{margin-bottom:0}
@@ -372,7 +401,7 @@ noscript .no-js-note,.no-js-note{padding:var(--s-4) var(--s-5);border-radius:var
   @view-transition{navigation:none}
 }
 @media print{
-  .site-nav,.progress,.site-footer,.controls,.cta-band,.marquee,.toast,.skip-link{display:none!important}
+  .site-nav,.progress,.site-footer,.controls,.cta-band,.marquee,.toast,.skip-link,.to-top,.install-bar,.update-bar{display:none!important}
   body,.section,.on-board,.page-hero{background:#fff!important;color:#000!important}
   .page-hero h1,.page-hero .lede,.breadcrumb,.breadcrumb a{color:#000!important}
   .card,.table-wrap{box-shadow:none!important;break-inside:avoid}.directory thead th{position:static}

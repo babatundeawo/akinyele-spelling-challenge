@@ -1,15 +1,31 @@
 {
+  "id": "./",
   "name": "Akinyele Spelling Challenge 2026",
   "short_name": "Spelling Challenge",
-  "description": "Official record of the Akinyele Spelling Challenge 2026, presented by Ivory Educational Resources.",
+  "description": "Official record of the Akinyele Spelling Challenge 2026, with a spelling trainer and word bank that work offline.",
+  "lang": "en-GB",
+  "dir": "ltr",
   "start_url": "./",
   "scope": "./",
-  "display": "browser",
+  "display": "standalone",
+  "orientation": "any",
   "background_color": "#FBF7EE",
   "theme_color": "#0F3D2E",
+  "categories": ["education", "games"],
   "icons": [
-    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
     { "src": "assets/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Practise spelling", "short_name": "Practise", "url": "practice.html", "icons": [{ "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" }] },
+    { "name": "Word bank", "short_name": "Words", "url": "wordbank.html", "icons": [{ "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" }] },
+    { "name": "2026 results", "short_name": "Results", "url": "results.html", "icons": [{ "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" }] }
+  ],
+  "screenshots": [
+    { "src": "assets/screenshots/wide-home.png", "sizes": "1280x800", "type": "image/png", "form_factor": "wide", "label": "Home page with the event details and flyer" },
+    { "src": "assets/screenshots/wide-practice.png", "sizes": "1280x800", "type": "image/png", "form_factor": "wide", "label": "Spelling trainer and Spelling Bee game" },
+    { "src": "assets/screenshots/narrow-home.png", "sizes": "540x960", "type": "image/png", "form_factor": "narrow", "label": "Home page on a phone" },
+    { "src": "assets/screenshots/narrow-practice.png", "sizes": "540x960", "type": "image/png", "form_factor": "narrow", "label": "Spelling trainer on a phone" }
   ]
 }

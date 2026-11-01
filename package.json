@@ -1,6 +1,6 @@
 {
   "name": "akinyele-spelling-challenge",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "private": true,
   "description": "Official site of the Akinyele Spelling Challenge 2026. Built and deployed by GitHub Actions.",
   "type": "module",

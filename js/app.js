@@ -96,6 +96,9 @@ $$('[data-copy]').forEach((btn) => {
   });
 });
 
+/* app features (offline, install, share, back-to-top) */
+import('./pwa.js').then((m) => m.init(toast)).catch(() => {});
+
 /* page modules, loaded only where needed */
 const modules = { practice: './pages/practice.js', wordbank: './pages/wordbank.js', register: './pages/register.js', gallery: './pages/gallery.js' };
 const mod = modules[document.body.dataset.page];

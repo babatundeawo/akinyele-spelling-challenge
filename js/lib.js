@@ -5,6 +5,17 @@ export const $$ = (sel, ctx = document) => Array.from(ctx.querySelectorAll(sel))
 export const esc = (v) => String(v ?? '')
   .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#039;');
 
+/** localStorage that never throws (private windows, blocked storage). */
+export const store = {
+  get(key) { try { return localStorage.getItem(key); } catch { return null; } },
+  set(key, value) { try { localStorage.setItem(key, value); } catch { /* storage unavailable */ } },
+};
+
+/** Short vibration on phones that support it; skipped when the visitor prefers reduced motion. */
+export const buzz = (ms) => {
+  if (navigator.vibrate && !matchMedia('(prefers-reduced-motion: reduce)').matches) navigator.vibrate(ms);
+};
+
 /** Fetches JSON and throws on any failure so callers can show a friendly error state. */
 export async function loadJSON(path) {
   const res = await fetch(path);

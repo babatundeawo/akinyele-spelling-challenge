@@ -35,6 +35,26 @@ for (const f of [...jsFiles, join(ROOT, 'build/build.mjs')]) {
   try { execFileSync(process.execPath, ['--check', f], { stdio: 'pipe' }); } catch (e) { errors.push(`syntax error in ${f.replace(ROOT, '')}: ${e.stderr?.toString().split('\n')[0]}`); }
 }
 
+
+/* ---------- installable-app checks ---------- */
+import { existsSync } from 'node:fs';
+try {
+  const man = JSON.parse(readFileSync(join(DIST, 'manifest.webmanifest'), 'utf8'));
+  for (const k of ['id', 'name', 'short_name', 'start_url', 'scope', 'lang', 'theme_color', 'background_color']) if (!man[k]) errors.push(`manifest: missing "${k}"`);
+  if (man.display !== 'standalone') errors.push('manifest: display must be "standalone"');
+  const icons = man.icons || [];
+  if (!icons.some((i) => i.sizes === '192x192') || !icons.some((i) => i.sizes === '512x512')) errors.push('manifest: needs 192 and 512 icons');
+  if (!icons.some((i) => i.purpose === 'maskable')) errors.push('manifest: needs a maskable icon');
+  for (const i of [...icons, ...(man.screenshots || []), ...(man.shortcuts || []).flatMap((s) => s.icons || [])]) if (!existsSync(join(DIST, i.src))) errors.push(`manifest: missing file ${i.src}`);
+  for (const s of man.shortcuts || []) if (!existsSync(join(DIST, s.url))) errors.push(`manifest: shortcut target missing ${s.url}`);
+} catch (e) { errors.push(`manifest.webmanifest unreadable: ${e.message}`); }
+try {
+  const sw = readFileSync(join(DIST, 'sw.js'), 'utf8');
+  if (!sw.includes('"offline.html"')) errors.push('sw.js: offline.html is not precached');
+  const list = JSON.parse(sw.match(/const PRECACHE = (\[.*\]);/)[1]);
+  for (const p of list) if (!existsSync(join(DIST, p))) errors.push(`sw.js: precache entry missing on disk: ${p}`);
+} catch (e) { errors.push(`sw.js check failed: ${e.message}`); }
+
 warnings.forEach((w) => console.warn('warning:', w));
 if (errors.length) { console.error('Checks failed:\n - ' + errors.join('\n - ')); process.exit(1); }
 console.log(`Checks passed (${warnings.length} warning${warnings.length === 1 ? '' : 's'}).`);
